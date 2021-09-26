@@ -50,11 +50,13 @@
       </header>
       <section>
       {% if page.url == "/" %}
+        {% assign sorted_pages = site.pages | sort: 'title' %}
         <h2 id="spis_tresci">Spis treści</h2>
         {% for dir in site.dirs %}
         <h3 id="{{dir.name}}">{{ dir.title }}</h3>
         <ol>
-          {% for page in site.pages %}
+
+          {% for page in sorted_pages %}
             {% if page.dir == dir.name %}
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
