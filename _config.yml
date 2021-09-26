@@ -8,9 +8,6 @@ show_downloads: false
 google_analytics: UA-634071-21
 author: Krzysztof Goliński
 lang: pl_PL
-collections:
-  posts:
-    sort_by: title
 dirs:
   - title: Zupy
     name: /zupy/
