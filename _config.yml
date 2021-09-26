@@ -11,13 +11,19 @@ lang: pl_PL
 dirs:
   - title: Zupy
     name: /zupy/
+    sort_by: title
   - title: Dania główne
     name: /dania_glowne/
+    sort_by: title
   - title: Dodatki
     name: /dodatki/
+    sort_by: title
   - title: Desery
     name: /desery/
+    sort_by: title
   - title: Przetwory
     name: /przetwory/
+    sort_by: title
   - title: Notatki
     name: /notatki/
+    sort_by: title
