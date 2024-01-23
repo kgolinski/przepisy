@@ -1,5 +1,3 @@
-# Pikantna oliwa
-
 ## Składniki
 
 * [ ] Dość duży słoik z hermetycznym zamknięciem

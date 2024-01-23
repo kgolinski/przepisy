@@ -1,5 +1,3 @@
-# Chleb żytni pytlowy/razowy
-
 ## Składniki
 
 - [ ] 1kg mąki żytniej pytlowej lub razowej w dowolnych proporcjach

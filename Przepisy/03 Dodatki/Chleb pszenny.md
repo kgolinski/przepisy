@@ -1,5 +1,3 @@
-# Chleb pszenny
-
 ## Składniki
 
 ### Zaczyn

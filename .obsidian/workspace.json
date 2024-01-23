@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przepisy/Pasztet wegetariański.md",
+                "file": "Przepisy/03 Dodatki/Pikantna oliwa.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Przepisy/Pasztet wegetariański.md",
+                "file": "Przepisy/03 Dodatki/Pikantna oliwa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,6 +94,12 @@
   },
   "active": "680eb1704c9eb67a",
   "lastOpenFiles": [
+    "Przepisy/03 Dodatki/Kapuśniaczki czyli drożdżowe pierogi z farszem.md",
+    "Przepisy/03 Dodatki/Hummus.md",
+    "Przepisy/03 Dodatki/Chleb żytni pytlowy.md",
+    "Przepisy/03 Dodatki/Chleb pszenny.md",
+    "Przepisy/03 Dodatki/Chleb pszenny drożdzowy.md",
+    "Przepisy/Pasztet wegetariański.md",
     "git/FETCH_HEAD",
     "git/COMMIT_EDITMSG",
     "git/packed-refs",
@@ -104,7 +110,6 @@
     "git/refs/remotes/origin/HEAD",
     "git/refs/remotes/origin",
     "git/refs/heads/master",
-    "git/refs/heads/gh-pages",
     "Przepisy/assets/img/sushi.svg",
     "Przepisy/assets/img/sushi.png",
     "Przepisy/chleb-na-zakwasie-wlasciwy.md",
@@ -113,7 +118,6 @@
     "Przepisy/Risotto z burakiem.md",
     "Przepisy/penmoz.md",
     "Przepisy/Migdały z tymiankiem.md",
-    "Przepisy/Pasztet wegetariański.md",
     "Przepisy/polwol.md",
     "Przepisy/pieRus.md",
     "Przepisy/Ryba po grecku.md",
@@ -131,10 +135,6 @@
     "dist/assets/img/sushi.svg",
     "dist/assets/img/sushi.png",
     "assets/img/sushi.svg",
-    "assets/img/sushi.png",
-    "Przepisy/02 Dania główne/Saag paneer.md",
-    "Przepisy/02 Dania główne/Przepyszne i szybkie placuszki twarogowe.md",
-    "Przepisy/02 Dania główne/Polędwica wieprzowa w sosie musztardowym.md",
-    "Przepisy/02 Dania główne/Pizza PRL (z lat 80).md"
+    "assets/img/sushi.png"
   ]
 }

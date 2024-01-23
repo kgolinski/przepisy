@@ -1,5 +1,3 @@
-# Hummus
-
 ## Składniki
 
 * [ ] 5 łyżek ziaren sezamu (albo tahini)

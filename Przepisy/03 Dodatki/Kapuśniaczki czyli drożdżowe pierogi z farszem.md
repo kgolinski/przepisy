@@ -1,5 +1,3 @@
-# Kapuśniaczki czyli drożdżowe pierogi z farszem
-
 ## Składniki
 
 ### Ciasto

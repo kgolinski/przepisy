@@ -1,5 +1,3 @@
-# Chleb pszenny drożdzowy
-
 ## Składniki
 
 * [ ] 400g mąki (najlepiej typ 650)
