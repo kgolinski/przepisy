@@ -10,13 +10,10 @@
     "slugify": "^1.6.6"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "serve": "^14.2.1"
   },
   "scripts": {
     "build": "node metalsmith.mjs",
-    "serve": "serve dist",
-    "deploy": "gh-pages -d dist -u \"github-actions-bot <support+actions@github.com>\"",
-    "clean": "gh-pages-clean"
+    "serve": "serve dist"
   }
 }
