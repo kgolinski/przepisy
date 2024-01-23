@@ -17,7 +17,7 @@
 - [ ] 1 łyżka wina ryżowego
 - [ ] 1/2 łyżeczki cukru
 - [ ] 1/2 łyżeczki soli
-- [ ] 1 łyżka [proszku z prażonego ryżu](Proszek%20z%20prażonego%20ryżu.md)
+- [ ] 1 łyżka [[Proszek z prażonego ryżu]]
 - [ ] 1 łyżka sosu rybnego
 - [ ] 1 łyżka oliwy
 

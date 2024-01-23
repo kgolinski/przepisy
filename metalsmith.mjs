@@ -25,6 +25,27 @@ const structure = (files, metalsmith, done) => {
   done()
 }
 
+const wikilinks = (files, metalsmith, done) => {
+  const keys = Object.keys(files)
+  keys.forEach(filepath => {
+    let file = files[filepath]
+    let content = file.contents.toString()
+    let wikilinks = content.match(/\[\[([^\]]+)\]\]/g)
+    if (wikilinks) {
+      wikilinks.forEach(wikilink => {
+        let title = wikilink.replace(/\[\[([^\]]+)\]\]/, '$1')
+        let linked = keys.find(filepath => files[filepath].path.includes(`${title}.md`));
+        if (linked) {
+          let link = files[linked].permalink
+          content = content.replace(wikilink, `<a href="/${link}">${title}</a>`)
+        }
+      })
+      file.contents = Buffer.from(content)
+    }
+  })
+  done()
+}
+
 Metalsmith(__dirname)
   .source('./Przepisy')
   .destination('./dist')
@@ -54,6 +75,7 @@ Metalsmith(__dirname)
   })
   .use(markdown())
   .use(structure)
+  .use(wikilinks)
   .use(layouts({
       directory: "layouts",
       default: "layout.hbs",
