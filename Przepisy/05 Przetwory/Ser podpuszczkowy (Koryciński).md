@@ -1,5 +1,3 @@
-# Ser podpuszczkowy (Koryciński)
-
 ## Składniki
 
 * [ ] świeże mleko niepasteryzowane

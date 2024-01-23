@@ -1,5 +1,3 @@
-# Konfitura z gorzkich pomarańczy
-
 ## Składniki
 
 * [ ] 1 i 1/2 kg hiszpańskich pomarańczy (styczeń, luty, marzec są w Polsce)

@@ -1,5 +1,3 @@
-# Konfitura z czerwonej cebuli
-
 ## Składniki
 
 * [ ] 1/2 kg czerwonej cebuli

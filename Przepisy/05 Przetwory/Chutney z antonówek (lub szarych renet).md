@@ -1,5 +1,3 @@
-# Chutney z antonówek (lub szarych renet)
-
 ## Składniki
 
 * [ ] 1.5 kg antonówek lub szarych renet

@@ -1,5 +1,3 @@
-# Ogórki kiszone
-
 ## Składniki (na 2 litrowe słoiki - ale warto zrobić więcej)
 
 - [ ] 1kg ogórków gruntowych
