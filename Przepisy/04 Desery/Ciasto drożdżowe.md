@@ -1,5 +1,3 @@
-# Ciasto drożdżowe
-
 ## Ciasto
 * [ ] 500 g maki
 * [ ] 40 g drozdzy

@@ -1,5 +1,3 @@
-# Ciastka owsiane
-
 ## Składniki
 
 * [ ] 175g masła

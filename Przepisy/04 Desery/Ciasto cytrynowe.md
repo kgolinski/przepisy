@@ -1,5 +1,3 @@
-# Ciasto cytrynowe
-
 ## Składniki 
 
 ### Ciasto 

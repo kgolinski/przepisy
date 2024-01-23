@@ -1,5 +1,3 @@
-# Gofry belgijskie
-
 ## Składniki (na 9 gofrów)
 
 - [ ] 185 g mąki pszennej

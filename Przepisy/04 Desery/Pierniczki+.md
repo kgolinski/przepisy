@@ -1,6 +1,4 @@
-# Pierniczki
-
-Ciasto na pierniczki może leżeć krócej lub dłużej. Zdarzyło mi się piec pierniczki z ciasta, które leżakowało kilka dni i z takiego które miało 12 miesięcy. W obu przypadkach były znakomite.
+>[!info] Ciasto na pierniczki może leżeć krócej lub dłużej. Zdarzyło mi się piec pierniczki z ciasta, które leżakowało kilka dni i z takiego które miało 12 miesięcy. W obu przypadkach były znakomite.
 
 ## Składniki
 

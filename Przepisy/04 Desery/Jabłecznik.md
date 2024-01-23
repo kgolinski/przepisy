@@ -1,5 +1,3 @@
-# Jabłecznik
-
 ## Składniki
 
 - [ ] 1 kg jabłek
