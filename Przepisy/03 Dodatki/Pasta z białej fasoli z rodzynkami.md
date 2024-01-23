@@ -1,5 +1,3 @@
-# Pasta z białej fasoli z rodzynkami
-
 ## Składniki
 
 * [ ] 1/2 cebuli

@@ -1,5 +1,3 @@
-# Proszek z prażonego ryżu
-
 ## Składniki
 
 - [ ] 100g surowego ryżu

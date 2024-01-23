@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przepisy/03 Dodatki/Pikantna oliwa.md",
+                "file": "Przepisy/03 Dodatki/Suflet serowy.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Przepisy/03 Dodatki/Pikantna oliwa.md",
+                "file": "Przepisy/03 Dodatki/Suflet serowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,11 +94,18 @@
   },
   "active": "680eb1704c9eb67a",
   "lastOpenFiles": [
+    "Przepisy/03 Dodatki/Proszek z prażonego ryżu.md",
+    "Przepisy/03 Dodatki/Polski (szary) sos.md",
+    "Przepisy/03 Dodatki/Pikantna oliwa.md",
+    "Przepisy/03 Dodatki/Pasta z białej fasoli z rodzynkami.md",
+    "Przepisy/03 Dodatki/Paluchy drożdżowe.md",
     "Przepisy/03 Dodatki/Kapuśniaczki czyli drożdżowe pierogi z farszem.md",
     "Przepisy/03 Dodatki/Hummus.md",
     "Przepisy/03 Dodatki/Chleb żytni pytlowy.md",
-    "Przepisy/03 Dodatki/Chleb pszenny.md",
     "Przepisy/03 Dodatki/Chleb pszenny drożdzowy.md",
+    "Przepisy/03 Dodatki/Chleb pszenny.md",
+    "Przepisy/03 Dodatki/Suflet serowy.md",
+    "Przepisy/02 Dania główne/Bun Cha.md",
     "Przepisy/Pasztet wegetariański.md",
     "git/FETCH_HEAD",
     "git/COMMIT_EDITMSG",
@@ -125,13 +132,6 @@
     "Przepisy/zieloneCurry.md",
     "Przepisy/pho.md",
     "Przepisy/Czerwone curry.md",
-    "Przepisy/Amok.md",
-    "Przepisy/Burgery z buraków.md",
-    "Przepisy/02 Dania główne/Ciasto na Pizzę Deluxe.md",
-    "Przepisy/index.md",
-    "Przepisy/focaccia.md",
-    "Przepisy/02 Dania główne/Wegańskie spaghetti al limone.md",
-    "Przepisy/04 Desery/Tort bezowy.md",
     "dist/assets/img/sushi.svg",
     "dist/assets/img/sushi.png",
     "assets/img/sushi.svg",

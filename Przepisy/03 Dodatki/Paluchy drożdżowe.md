@@ -1,5 +1,3 @@
-# Paluchy drożdżowe
-
 ## Składniki
 
 * [ ] 25 g drożdży

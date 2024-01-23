@@ -1,5 +1,3 @@
-# Suflet serowy
-
 ## Składniki
 
 * [ ] 50 g masła

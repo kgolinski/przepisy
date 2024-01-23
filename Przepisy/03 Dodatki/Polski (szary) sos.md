@@ -1,5 +1,3 @@
-# Polski (szary) sos
-
 ## Składniki
 
 * [ ] 40g masła
