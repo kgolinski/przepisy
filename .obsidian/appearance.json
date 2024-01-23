@@ -1,0 +1,10 @@
+{
+  "accentColor": "#371a94",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Bear Sans UI",
+  "textFontFamily": "Bear Sans UI",
+  "enabledCssSnippets": [
+    "fonts"
+  ],
+  "monospaceFontFamily": "Berkeley Mono"
+}

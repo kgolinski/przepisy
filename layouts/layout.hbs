@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site_language }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="{{ site_author }}" />
+    <meta property="og:title" content="{{#if (eq title 'index')}}{{ site_title }}{{else}}{{title}}{{/if}}" />
+    <meta property="og:site_name" content="{{ site_title }}" />
+    <meta property="og:description" content="{{ site_description }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{#if (eq title 'index')}}{{ site_url }}{{else}}{{site_url}}/{{permalink}}{{/if}}" />
+    <meta property="og:image" content="{{ site_url }}{{ site_logo_raster }}" />
+    <meta property="og:locale" content="{{ site_language }}" />
+    <link rel="canonical" href="{{#if (eq title 'index')}}{{ site_url }}{{else}}{{site_url}}/{{permalink}}{{/if}}" />
+
+    <title>{{#if (eq title 'index')}}{{ site_title }}{{else}}{{site_title}} - {{title}}{{/if}}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="/">{{ site_title }}</a></h1>
+        <img src="{{ site_logo }}" alt="Illustration by {{ site_logo_source }}" />
+        <p>{{ site_description }}</p>
+        <p class="view"><a href="{{ site_github_repository_url }}">View the Project on GitHub <small>{{ site_github_repository_nwo }}</small></a></p>
+      </header>
+      <section>
+        {{#if (eq title 'index') }}
+          <h2 id="spis_tresci">Spis treści</h2>
+          {{#each collections }}
+            <h3 id="{{ slugify @key }}">{{@key}}</h3>
+            <ol>
+              {{#each this}}
+                <li><a href="{{ permalink }}">{{ title }}</a></li>
+              {{/each}}
+            </ol>
+          {{/each}}
+        {{else}}
+          <h1 id="{{slugify title}}">{{ title }}</h1>
+          {{{ contents }}}
+        {{/if}}
+      </section>
+
+      <footer>
+        <p>This project is maintained by <a href="{{ site_github_owner_url }}">{{ site_github_owner_name }}</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>

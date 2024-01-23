@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "9ab7f7b89f15ff32",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f9a71f0d95e8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680eb1704c9eb67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Przepisy/Pasztet wegetariański.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bfb5454b5d0437d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea66c96b7550ad65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fff3269019f940c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e2a4862a304a9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9060bad68dd395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5709793246775d14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Przepisy/Pasztet wegetariański.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fe433ccfd3816ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "680eb1704c9eb67a",
+  "lastOpenFiles": [
+    "git/FETCH_HEAD",
+    "git/COMMIT_EDITMSG",
+    "git/packed-refs",
+    "git/branches",
+    "git/index",
+    "git/refs/remotes/origin/master",
+    "git/refs/remotes/origin/gh-pages",
+    "git/refs/remotes/origin/HEAD",
+    "git/refs/remotes/origin",
+    "git/refs/heads/master",
+    "git/refs/heads/gh-pages",
+    "Przepisy/assets/img/sushi.svg",
+    "Przepisy/assets/img/sushi.png",
+    "Przepisy/chleb-na-zakwasie-wlasciwy.md",
+    "Przepisy/Kapusta kiszona.md",
+    "Przepisy/Mazurki.md",
+    "Przepisy/Risotto z burakiem.md",
+    "Przepisy/penmoz.md",
+    "Przepisy/Migdały z tymiankiem.md",
+    "Przepisy/Pasztet wegetariański.md",
+    "Przepisy/polwol.md",
+    "Przepisy/pieRus.md",
+    "Przepisy/Ryba po grecku.md",
+    "Przepisy/Konfitura francuska.md",
+    "Przepisy/zieloneCurry.md",
+    "Przepisy/pho.md",
+    "Przepisy/Czerwone curry.md",
+    "Przepisy/Amok.md",
+    "Przepisy/Burgery z buraków.md",
+    "Przepisy/02 Dania główne/Ciasto na Pizzę Deluxe.md",
+    "Przepisy/index.md",
+    "Przepisy/focaccia.md",
+    "Przepisy/02 Dania główne/Wegańskie spaghetti al limone.md",
+    "Przepisy/04 Desery/Tort bezowy.md",
+    "dist/assets/img/sushi.svg",
+    "dist/assets/img/sushi.png",
+    "assets/img/sushi.svg",
+    "assets/img/sushi.png",
+    "Przepisy/02 Dania główne/Saag paneer.md",
+    "Przepisy/02 Dania główne/Przepyszne i szybkie placuszki twarogowe.md",
+    "Przepisy/02 Dania główne/Polędwica wieprzowa w sosie musztardowym.md",
+    "Przepisy/02 Dania główne/Pizza PRL (z lat 80).md"
+  ]
+}

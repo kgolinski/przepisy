@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "6fdbac1f6397398c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c405102c707c616b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dedfae88d79db86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Przepisy/index.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbe3751c93b0e777",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d909414c74f6e0f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "795493be5ba218b4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9c8e85a3e8e6d3f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4c5ca36d9c932d8d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "41b3d713e45ce78a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60cab48c5dee916e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "18d8d9586292f41f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Przepisy/index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "30f7e0357678ffb6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7dedfae88d79db86",
+  "lastOpenFiles": [
+    "Przepisy/04 Desery/ciasto-cytrynowe.md",
+    "assets/img/sushi.png",
+    "assets/img/sushi.svg",
+    "assets/css/style.css",
+    "assets/img",
+    "assets/css",
+    "assets",
+    "Przepisy/Risotto z burakiem.md",
+    "Przepisy/Mazurki.md",
+    "Przepisy/Migdały z tymiankiem.md",
+    "Przepisy/Burgery z buraków.md",
+    "Przepisy/Amok.md",
+    "Przepisy/Kapusta kiszona.md",
+    "Przepisy/Konfitura francuska.md",
+    "Przepisy/Pasztet wegetariański.md",
+    "Przepisy/Czerwone curry.md",
+    "Przepisy/Ryba po grecku.md",
+    "Przepisy/04 Desery/Tort bezowy.md",
+    "Przepisy/assets/img/sushi.svg",
+    "Przepisy/03 Dodatki/chleb-drozdzowy.md",
+    "Dania główne/cacio-pepe.md",
+    "Desery/beza.md",
+    "Desery/babka-cynamonowa.md",
+    "chleb-na-zakwasie-wlasciwy.md",
+    "Notatki/maka.md"
+  ]
+}

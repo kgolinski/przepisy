@@ -1,0 +1,21 @@
+{
+  "name": "przepisy",
+  "private": true,
+  "dependencies": {
+    "@metalsmith/collections": "^1.2.1",
+    "@metalsmith/layouts": "^2.5.1",
+    "@metalsmith/markdown": "^1.5.0",
+    "jstransformer-handlebars": "^1.2.0",
+    "metalsmith": "^2.5.0",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "serve": "^14.2.1"
+  },
+  "scripts": {
+    "start": "node metalsmith.mjs",
+    "serve": "serve dist",
+    "deploy": "gh-pages -d build"
+  }
+}
