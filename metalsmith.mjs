@@ -77,7 +77,7 @@ Metalsmith(__dirname)
   .use(structure)
   .use(wikilinks)
   .use(layouts({
-      directory: "layouts",
+      directory: ".",
       default: "layout.hbs",
       pattern: '**/*.html',
       engineOptions: {
