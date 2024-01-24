@@ -1,6 +1,4 @@
-#PHO
 
-PHO
 
 Przyprawy:
 Kolendra

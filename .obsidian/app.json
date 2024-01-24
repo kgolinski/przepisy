@@ -1,5 +1,28 @@
 {
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
-  "userIgnoreFilters": null
+  "showInlineTitle": true,
+  "userIgnoreFilters": null,
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-checklist-status",
+    "editor:toggle-blockquote",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "propertiesInDocument": "source",
+  "spellcheck": false,
+  "autoPairBrackets": false
 }

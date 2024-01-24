@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przepisy/index.md",
-                "mode": "preview",
+                "file": "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Przepisy/index.md",
+            "file": "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,6 +127,12 @@
   },
   "active": "7dedfae88d79db86",
   "lastOpenFiles": [
+    "Przepisy/04 Desery/Ciasto na mazurek.md",
+    "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
+    "Przepisy/03 Dodatki/Proszek z prażonego ryżu.md",
+    "Przepisy/01 Zupy/Bulion.md",
+    "Przepisy/01 Zupy/Avgolemono.md",
+    "Przepisy/index.md",
     "Przepisy/04 Desery/ciasto-cytrynowe.md",
     "assets/img/sushi.png",
     "assets/img/sushi.svg",

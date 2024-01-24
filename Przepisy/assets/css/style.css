@@ -656,3 +656,14 @@ ul:has(li>input[type="checkbox"]) {
 ul:has(li>input[type="checkbox"]) li input {
   margin-right: 6px
 }
+
+.cuisine,
+.tags {
+  font-size: 0.75rem;
+  margin-bottom: 0.125rem;
+}
+
+.cuisine span,
+.tags span {
+  font-weight: 600;
+}

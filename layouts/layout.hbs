@@ -43,6 +43,20 @@
         {{else}}
           <h1 id="{{slugify title}}">{{ title }}</h1>
           {{{ contents }}}
+          {{#if kuchnia }}
+            <div class="cuisine">Kuchnia:
+              {{#each kuchnia}}
+                <span>{{this}}</span>{{#unless @last}},{{/unless}}
+              {{/each}}
+            </div>
+          {{/if}}
+          {{#if tags }}
+            <div class="tags">Tagi:
+              {{#each tags}}
+                <span>{{this}}</span>{{#unless @last}},{{/unless}}
+              {{/each}}
+            </div>
+          {{/if}}
         {{/if}}
       </section>
 

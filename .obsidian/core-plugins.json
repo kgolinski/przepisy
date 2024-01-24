@@ -1,11 +1,14 @@
 [
   "file-explorer",
   "global-search",
+  "backlink",
   "outgoing-link",
   "tag-pane",
+  "properties",
   "templates",
   "command-palette",
   "editor-status",
+  "outline",
   "word-count",
   "file-recovery"
 ]

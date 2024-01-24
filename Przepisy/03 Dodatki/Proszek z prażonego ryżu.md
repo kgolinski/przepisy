@@ -1,3 +1,11 @@
+---
+kuchnia:
+  - azjatycka
+  - wietnamska
+tags:
+  - ryż
+---
+
 ## Składniki
 
 - [ ] 100g surowego ryżu

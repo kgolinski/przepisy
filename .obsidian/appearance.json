@@ -6,5 +6,8 @@
   "enabledCssSnippets": [
     "fonts"
   ],
-  "monospaceFontFamily": "Berkeley Mono"
+  "monospaceFontFamily": "Berkeley Mono",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": false,
+  "showViewHeader": false
 }

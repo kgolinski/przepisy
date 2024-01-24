@@ -12,7 +12,7 @@
 - [ ] 4 goździki
 - [ ] 6 ziarna ziela angielskiego
 - [ ] 10 ziaren pieprzu
-- [ ] 6 liście laurowe
+- [ ] 6 liści laurowych
 - [ ] 2 ząbki czosnku
 - [ ] 1 łyżeczki kurkumy
 - [ ] 2 łyżki sosu sojowego

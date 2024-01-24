@@ -1,3 +1,7 @@
+---
+kuchnia:
+  - tajska
+---
 ## Składniki
 
 - [ ] 1L wody
