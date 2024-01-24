@@ -1,11 +1,14 @@
 ---
 kuchnia:
   - tajska
+tags:
+  - kurczak
+  - tofu
 ---
 ## Składniki
 
 - [ ] 1L wody
-- [ ] 1 pierś z kurczaka
+- [ ] 1 pierś z kurczaka lub kostka tofu
 - [ ] kawałek galangalu (3-4 cm sześcienne)
 - [ ] 2 kawałki trawy cytrynowej
 - [ ] 1 łyżka pasty Tom Yum

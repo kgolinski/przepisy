@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
+                "file": "Przepisy/01 Zupy/Zupa krem marchewkowo-porowa.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": true
               }
             }
@@ -72,6 +71,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "eb0900c097243b11",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -86,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Przepisy/01 Zupy/Zupa krem marchewkowo-porowa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
+            "file": "Przepisy/01 Zupy/Zupa krem marchewkowo-porowa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Przepisy/01 Zupy/Zupa krem marchewkowo-porowa.md"
+          }
         }
       }
     ],
@@ -125,13 +137,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dedfae88d79db86",
+  "active": "3d909414c74f6e0f",
   "lastOpenFiles": [
+    "Przepisy/01 Zupy/Zupa kminkowa.md",
+    "Przepisy/01 Zupy/Tom Ka Gai.md",
+    "Przepisy/01 Zupy/Krem z buraków z gruszką.md",
+    "Przepisy/01 Zupy/Bulion.md",
+    "Przepisy/01 Zupy/Avgolemono.md",
+    "Templates/Przepis.md",
+    "Przepisy/Amok.md",
+    "Templates",
+    "Untitled.md",
     "Przepisy/04 Desery/Ciasto na mazurek.md",
     "Przepisy/04 Desery/Polewa czekoladowa do Mazurka.md",
     "Przepisy/03 Dodatki/Proszek z prażonego ryżu.md",
-    "Przepisy/01 Zupy/Bulion.md",
-    "Przepisy/01 Zupy/Avgolemono.md",
     "Przepisy/index.md",
     "Przepisy/04 Desery/ciasto-cytrynowe.md",
     "assets/img/sushi.png",
@@ -144,7 +163,6 @@
     "Przepisy/Mazurki.md",
     "Przepisy/Migdały z tymiankiem.md",
     "Przepisy/Burgery z buraków.md",
-    "Przepisy/Amok.md",
     "Przepisy/Kapusta kiszona.md",
     "Przepisy/Konfitura francuska.md",
     "Przepisy/Pasztet wegetariański.md",
@@ -154,9 +172,6 @@
     "Przepisy/assets/img/sushi.svg",
     "Przepisy/03 Dodatki/chleb-drozdzowy.md",
     "Dania główne/cacio-pepe.md",
-    "Desery/beza.md",
-    "Desery/babka-cynamonowa.md",
-    "chleb-na-zakwasie-wlasciwy.md",
-    "Notatki/maka.md"
+    "Desery/beza.md"
   ]
 }

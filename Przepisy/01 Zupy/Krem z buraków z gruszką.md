@@ -1,3 +1,7 @@
+---
+tags:
+  - buraki
+---
 ## Składniki
 
 * [ ] 2 duże ugotowane buraki
