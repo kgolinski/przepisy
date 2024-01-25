@@ -24,5 +24,7 @@
   ],
   "propertiesInDocument": "source",
   "spellcheck": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Przepisy"
 }
