@@ -1,3 +1,7 @@
+---
+tags:
+  - jabłka
+---
 ## Składniki
 
 * [ ] 1.5 kg antonówek lub szarych renet

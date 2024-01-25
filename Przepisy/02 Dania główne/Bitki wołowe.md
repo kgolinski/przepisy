@@ -1,3 +1,9 @@
+---
+kuchnia:
+  - polska
+tags:
+  - wołowina
+---
 ## Składniki
 
 - [ ] 1 kg mięsa wołowego (najlepiej krzyżowa)

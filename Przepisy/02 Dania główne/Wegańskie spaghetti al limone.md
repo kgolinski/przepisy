@@ -1,3 +1,9 @@
+---
+tags:
+  - vegan
+  - cytryna
+  - cukinia
+---
 ## Składniki
 
 * [ ] 1 żółta cukinia
@@ -7,7 +13,7 @@
 * [ ] oliwa z oliwek
 * [ ] sól, pieprz
 * [ ] świeża bazylia lub natka pietruszki
-* [ ] 1 filiżanka wody spod gotującego się makaronu
+* [ ] 1 filiżanka wody z gotowania makaronu
 
 ## Przygotowanie
 

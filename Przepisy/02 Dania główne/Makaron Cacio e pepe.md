@@ -1,3 +1,10 @@
+---
+kuchnia:
+  - włoska
+tags:
+  - makaron
+  - ser
+---
 ## Składniki
 
 * [ ] makaron spaghetti, bucatini lub tagliatele

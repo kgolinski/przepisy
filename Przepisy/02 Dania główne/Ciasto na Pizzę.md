@@ -1,3 +1,7 @@
+---
+kuchnia:
+  - włoska
+---
 ## Składniki
 
 * [ ] 7g suchych drożdży

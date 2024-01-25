@@ -1,3 +1,7 @@
+---
+kuchnia:
+  - hinduska
+---
 ## Składniki
 
 * [ ] 2 litry mleka 3,2%

@@ -1,3 +1,7 @@
+---
+tags:
+  - wieprzowina
+---
 ## Składniki
 
 * [ ] 175 ml wywaru drobiowego

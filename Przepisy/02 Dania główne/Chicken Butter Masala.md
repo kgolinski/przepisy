@@ -1,3 +1,7 @@
+---
+kuchnia:
+  - hinduska
+---
 ## Składniki
 
 ### Marynata

@@ -1,3 +1,10 @@
+---
+kuchnia:
+  - francuska
+  - szwajcarska
+tags:
+  - ser
+---
 ## Składniki
 
 * [ ] 750 g białego pieczywa

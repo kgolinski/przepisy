@@ -1,6 +1,12 @@
+---
+tags:
+  - pomarańcze
+---
+> Najlepsza wychodzi z hiszpańskich pomarańczy, które są w Polsce koło lutego, marca
+
 ## Składniki
 
-* [ ] 1 i 1/2 kg hiszpańskich pomarańczy (styczeń, luty, marzec są w Polsce)
+* [ ] 1 i 1/2 kg pomarańczy
 * [ ] 1 cytryna
 * [ ] 1 kg (można 0,75 kg) białego cukru
 * [ ] 1/4 łyżeczki soli (łagodzi odczuwanie kwaśności smaku)

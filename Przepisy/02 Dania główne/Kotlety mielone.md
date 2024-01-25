@@ -1,3 +1,7 @@
+---
+kuchnia:
+  - polska
+---
 ## Składniki
 
 * [ ] 300-500g mielone mięso z łopatki/karkówki wieprzowej
