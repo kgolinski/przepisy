@@ -26,7 +26,7 @@ tags:
 2. W misce wymieszaj mąkę, proszek do pieczenia i sodę.
 3. Wrzuć 113g masła do garnka i podgrzewaj aż będzie ciemno złotobrązowe i zacznie pachnieć orzechami.
 4. W osobnej misce połącz palone masło z pozostałym (57g) i wymieszaj.
-5. Do masła dodaj cukier biały i brązowy oraz wanilię. Mieszaj aż się połączą.
+5. Do masła dodaj cukier biały i brązowy oraz wanilię i sól. Mieszaj aż się połączą.
 6. Dodaj jajko i żółtko i mieszaj około minuty - mieszanina powinna być gładka i błyszcząca.
 7. Odstaw na 2-3 minuty a potem znowu mieszaj przez minutę
 8. Dodaj mąkę z proszkiem do pieczenia i mieszaj szpatułką aż się połączą.

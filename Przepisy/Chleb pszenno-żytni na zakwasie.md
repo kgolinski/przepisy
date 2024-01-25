@@ -1,5 +1,3 @@
-# Chleb pszenno-żytni na zakwasie
-
 ## Składniki
 
 ### Zaczyn
