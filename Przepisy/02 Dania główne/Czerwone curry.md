@@ -1,0 +1,6 @@
+---
+kuchnia:
+  - tajska
+tags:
+  - todo
+---

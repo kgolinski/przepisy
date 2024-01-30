@@ -1,14 +1,32 @@
 import { fileURLToPath } from 'node:url'
 import { dirname, extname, basename } from 'path'
 import Metalsmith from 'metalsmith'
+import { readdirSync } from 'fs'
 import collections from '@metalsmith/collections'
 import layouts from '@metalsmith/layouts'
 import markdown from '@metalsmith/markdown'
 import slugify from 'slugify'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
+const folders = readdirSync('./Przepisy', { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory() && /^\d{2} /.test(dirent.name))
+    .reduce((acc, dirent) => {
+          acc[dirent.name.replace(/^\d{2} /, '')] = dirent.name + '/*.md';
+          return acc;
+    }, {})
 const t1 = performance.now()
 
+const hideTodos = (files, metalsmith, done) => {
+  const keys = Object.keys(files)
+
+  keys.forEach(filepath => {
+    if (files[filepath].tags && files[filepath].tags.includes('todo')) {
+      console.log('deleting', filepath)
+      delete files[filepath];
+    }
+  })
+  done()
+}
 const structure = (files, metalsmith, done) => {
   const keys = Object.keys(files)
   keys.forEach(filepath => {
@@ -50,14 +68,6 @@ Metalsmith(__dirname)
   .source('./Przepisy')
   .destination('./dist')
   .clean(true)
-  .use(collections({
-    'Zupy': '01 Zupy/*.md',
-    'Dania główne': '02 Dania główne/*.md',
-    'Dodatki': '03 Dodatki/*.md',
-    'Desery': '04 Desery/*.md',
-    'Przetwory': '05 Przetwory/*.md',
-    'Notatki': '06 Notatki/*.md',
-  }))
   .metadata({
     site_author: 'Krzysztof Goliński',
     site_title: 'Przepisy',
@@ -71,8 +81,9 @@ Metalsmith(__dirname)
     site_github_repository_nwo: 'kgolinski/przepisy',
     site_github_owner_url: 'https://github.com/kgolinski',
     site_github_owner_name: 'kgolinski'
-
   })
+  .use(hideTodos)
+  .use(collections(folders))
   .use(markdown())
   .use(structure)
   .use(wikilinks)

@@ -19,4 +19,4 @@ W dużym szerokim garnku roztopić masło lub podgrzać olej, dodać pokrojoną 
 
 Następnie dodać obraną i pokrojoną na kawałeczki marchewkę, cukier, czerwoną paprykę i sól (jeśli będziemy używać słonego bulionu, zupę solimy do smaku na sam koniec). Dusić warzywa mieszając co jakiś czas przez około 7 minut. Wlać bulion, zagotować na większym ogniu. Zmniejszyć ogień do małego, przykryć garnek i gotować przez około 30 - 45 minut, aż marchewka będzie miękka.
 
-Zupę zmiksować na gładki krem razem z sokiem z cytryny i mlekiem, w razie potrzeby doprawić. Podgrzać przed podaniem, podawać np. z makaronem, świeżo zmielonym pieprzem i odrobiną kremowej śmietanki (lub gęstego mleka kokosowego).
+Zupę zmiksować na gładki krem razem z sokiem z cytryny i mlekiem, w razie potrzeby doprawić. Podgrzać przed podaniem, podawać z grzankami, świeżo zmielonym pieprzem i odrobiną kremowej śmietanki (lub gęstego mleka kokosowego).

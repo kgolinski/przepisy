@@ -1,3 +1,7 @@
+---
+tags:
+  - todo
+---
 ## Składniki
 
 ### Zaczyn
