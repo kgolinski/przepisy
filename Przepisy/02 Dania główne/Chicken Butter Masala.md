@@ -14,7 +14,7 @@ kuchnia:
 * [ ] ½ lyzeczki chilli
 * [ ] 1 lyzka jogurtu
 * [ ] sól
-* [ ] [hinduski barwnik spozywczy]
+* [ ] hinduski barwnik spozywczy (opcjonalnie)
 
 ### Sos
 
