@@ -1,3 +1,15 @@
+@import '@fontsource-variable/inter/slnt.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* [x-cloak] {
+  display: none !important;
+} */
+
+/* -------------------------------------------------------------------------- */
+
 .highlight table td {
   padding: 5px
 }
