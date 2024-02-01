@@ -326,11 +326,6 @@ h6 {
   color: #494949
 }
 
-a {
-  color: #267CB9;
-  text-decoration: none
-}
-
 a:hover,
 a:focus {
   color: #069;
@@ -594,12 +589,13 @@ body {
 }
 
 a {
-  color: #000
+  color: #333;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #333
+  color: #000;
 }
 
 ul {
