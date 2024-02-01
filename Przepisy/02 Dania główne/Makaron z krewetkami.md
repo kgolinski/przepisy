@@ -11,7 +11,7 @@ tags:
 - [ ] 6 łyżek śmietanki kremówki 30%
 - [ ] 2 ząbki czosnku
 - [ ] 6 łyżek białego wina
-- [ ] 1 i 1/2 łyżki oliwy
+- [ ] 1 i ½ łyżki oliwy
 - [ ] 2 łyżki masła
 - [ ] 2 cząstki cytryny
 

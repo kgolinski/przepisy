@@ -8,7 +8,7 @@
 * [ ] 1 czerwone chilli
 * [ ] 2 lyżki koncentratu pomidorowego
 * [ ] 1 łyżeczka dobrego cukru
-* [ ] 1 i 1/2 lyżeczki soli
+* [ ] 1 i ½ lyżeczki soli
 * [ ] pieprz
 * [ ] 150g masła
 * [ ] 250g makaronu fusilli

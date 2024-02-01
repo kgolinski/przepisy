@@ -1,12 +1,12 @@
 ## Składniki
 
-* [ ] 1/2 kg czerwonej cebuli
+* [ ] ½ kg czerwonej cebuli
 * [ ] 2 łyżki oliwy z oliwek lub oleju słonecznikowego
 * [ ] 2 płaskie łyżki brązowego cukru demerara
-* [ ] 1/4 łyżeczki soli
-* [ ] 1/4 łyżeczki świeżo zmielonego czarnego pieprzu
-* [ ] 1/2 szkl wina czerwonego
-* [ ] 1/3 szkl octu balsamicznego
+* [ ] ¼ łyżeczki soli
+* [ ] ¼ łyżeczki świeżo zmielonego czarnego pieprzu
+* [ ] ½ szkl wina czerwonego
+* [ ] ⅓ szkl octu balsamicznego
 * [ ] 1 łyżka drobnych rodzynek
 
 Cebulę obrać i pokroić w piórka.

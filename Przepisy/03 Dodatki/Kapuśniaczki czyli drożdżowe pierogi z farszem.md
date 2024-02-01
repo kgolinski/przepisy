@@ -8,7 +8,7 @@
 * [ ] 1 jajko
 * [ ] 5 łyżek kwaśnej śmietany
 * [ ] 5 łyżek mleka
-* [ ] 1/2kg mąki
+* [ ] ½ kg mąki
 * [ ] 250g margaryny
 
 ### Farsz
@@ -26,7 +26,7 @@ Grzyby kruszymy i zalewamy wodą poprzedniego dnia.
 Drożdże rozkruszamy, dodajemy cukier i odstawiamy żeby zaczęły rosnąć.
 Do miski wlewamy śmietanę, mleko, żółtko i razem roztrzepujemy, dodając szczyptę soli.
 
-Mąkę wysypujemy na stolnicę, dodajemy margarynę, razem siekamy. Dodajemy mieszankę śmietanową, drożdże i wyrabiamy ciasto kilka minut aż będzie aksamitne. Przykrywamy ściereczką i odstawiamy w chłodne miejsce na conajmniej 1/2 godziny. 
+Mąkę wysypujemy na stolnicę, dodajemy margarynę, razem siekamy. Dodajemy mieszankę śmietanową, drożdże i wyrabiamy ciasto kilka minut aż będzie aksamitne. Przykrywamy ściereczką i odstawiamy w chłodne miejsce na conajmniej ½ godziny. 
 
 Białą kapustę szatkujemy (niekoniecznie bardzo drobno), wrzucamy na niewielką ilość gorącej wody, gotujemy około 10 min. Dodajemy kiszoną kapustę, sól do smaku i dalej gotujemy ok. godziny.
 Grzyby obgotowujemy w wodzie, w której się moczyły (ok. 10 minut do momentu zawrzenia) i wrzucamy do kapusty.

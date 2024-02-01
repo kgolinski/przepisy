@@ -13,7 +13,7 @@ Sos:
 2 łyżki miodu lipowego
 2 łyżki oliwy
 sok z cytryny
-kawałek startego świeżego imbiru (o wielkości ok. 1 x 1 cm)
+kawałek startego świeżego imbiru (o wielkości ok. 1×1 cm)
 drobno posiekana papryczka chilli
 szczypta soli
 

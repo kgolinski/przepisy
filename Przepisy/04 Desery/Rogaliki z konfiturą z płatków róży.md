@@ -14,7 +14,7 @@ Ciasto nie musi rosnąć, trzeba od razu piec.
 Wałkować i wycinać mniejsze placki, na które trzeba wkładać konfiturę
 
 Ciasto rozwałkować na max 5mm
-Kształt - kwadraty 8x8
+Kształt - kwadraty 8×8
 
 Lukier
 3-4 duże łyżki cukru pudru. 1 łyżkę wrzątku. Dobrze wymieszać, ewentualnie dodać trochę soku z cytryny.

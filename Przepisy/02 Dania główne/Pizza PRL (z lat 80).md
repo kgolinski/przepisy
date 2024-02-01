@@ -3,7 +3,7 @@
 ### Ciasto
 
 * [ ] 2 szklanki mąki pszennej
-* [ ] 1 1/2 łyżki drożdży
+* [ ] 1 ½ łyżki drożdży
 * [ ] 1 szklanka mleka
 * [ ] 2 łyżeczki cukru (w oryginale 4)
 * [ ] sól do smaku

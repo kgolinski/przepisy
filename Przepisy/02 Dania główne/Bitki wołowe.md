@@ -15,7 +15,7 @@ tags:
 - [ ] 2 liście laurowe
 - [ ] 3 ziela angielskie
 - [ ] 4 ziarenka czarnego pieprzu
-- [ ] 1/2 łyżeczki majeranku
+- [ ] ½ łyżeczki majeranku
 - [ ] 1 łyżka mąki pszennej
 - [ ] 1 łyżka mąki ziemniaczanej
 - [ ] sól

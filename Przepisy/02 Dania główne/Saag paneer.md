@@ -5,12 +5,12 @@ kuchnia:
 ## Składniki
 
 * [ ] 2 litry mleka 3,2%
-* [ ] 1/2 szklanki soku z cytryny
+* [ ] ½ szklanki soku z cytryny
 * [ ] gaza
 
 * [ ] 1 łyżeczka soli
 * [ ] 1 łyżeczka kurkumy
-* [ ] 1/2 łyżeczki chilli
+* [ ] ½ łyżeczki chilli
 * [ ] 5 łyżeczek Garam Masala
 * [ ] 300g posiekanego szpinaku
 * [ ] 1 cebula

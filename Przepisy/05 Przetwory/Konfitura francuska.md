@@ -15,4 +15,4 @@ tags:
 ## Przygotowanie
 
 Owoce wymieszać, przesypać cukrem, czekać aż puszczą sok (parę godzin). Sok zlać, zagotować i gorącym polać owoce. Po ostygnięciu czynność powtórzyć.
-I tak cztery do pięciu razy. Po ostatnim wystygnięciu smażyć konfiturę do 1/2 godz. Gorącą przełożyć do słoików.
+I tak cztery do pięciu razy. Po ostatnim wystygnięciu smażyć konfiturę do ½ godz. Gorącą przełożyć do słoików.

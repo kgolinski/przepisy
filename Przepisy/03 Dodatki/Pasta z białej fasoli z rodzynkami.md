@@ -1,14 +1,14 @@
 ## Składniki
 
-* [ ] 1/2 cebuli
-* [ ] 1/4 szklanki rodzynek
-* [ ] 1/2 papryczki chilli bez pestek
+* [ ] ½ cebuli
+* [ ] ¼ szklanki rodzynek
+* [ ] ½ papryczki chilli bez pestek
 * [ ] 1 łyżeczka nasion kuminu
-* [ ] 1/2 łyżeczki nasion czarnej gorczycy
+* [ ] ½ łyżeczki nasion czarnej gorczycy
 * [ ] olej do smażenia
-* [ ] 1 puszka białej fasoli (3/4 szklanki fasoli suchej do namoczenia i ugotowania)
-* [ ] 1/2 łyżeczki mielonej kolendry
-* [ ] 1/2 łyżeczki mielonego kuminu
+* [ ] 1 puszka białej fasoli (¾ szklanki fasoli suchej do namoczenia i ugotowania)
+* [ ] ½ łyżeczki mielonej kolendry
+* [ ] ½ łyżeczki mielonego kuminu
 * [ ] 2 łyżki wody
 * [ ] 2 łyżki oliwy
 * [ ] sól

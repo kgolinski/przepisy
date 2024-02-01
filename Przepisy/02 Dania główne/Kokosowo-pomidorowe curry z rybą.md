@@ -9,7 +9,7 @@
 * [ ] 200 g pomidorów z puszki (lub w sezonie świeżych pomidorów)
 * [ ] 1 łyżeczka kurkumy
 * [ ] 1 łyżeczka soli
-* [ ] 1/2 łyżeczki pieprzu (lub do smaku)
+* [ ] ½ łyżeczki pieprzu (lub do smaku)
 * [ ] 20 listków bazylii (najlepsze byłyby liście curry, ale nie mam)
 * [ ] 10 listków tajskiej bazylii (opcjonalnie, ale warto)
 * [ ] 200 ml dobrze wymieszanego mleka kokosowego

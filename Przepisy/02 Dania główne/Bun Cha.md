@@ -8,15 +8,15 @@
 - [ ] 4 łyżki soku z limonki
 - [ ] 3 łyżki sosu rybnego
 - [ ] 125ml wody
-- [ ] 1/2 łyżeczki soli
+- [ ] ½ łyżeczki soli
 
 ### Klopsiki
 
 - [ ] 500g mięsa mielonego (wieprzowego lub wołowego)
 - [ ] 2 ząbki czosnku
 - [ ] 1 łyżka wina ryżowego
-- [ ] 1/2 łyżeczki cukru
-- [ ] 1/2 łyżeczki soli
+- [ ] ½ łyżeczki cukru
+- [ ] ½ łyżeczki soli
 - [ ] 1 łyżka [[Proszek z prażonego ryżu]]
 - [ ] 1 łyżka sosu rybnego
 - [ ] 1 łyżka oliwy

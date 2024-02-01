@@ -10,12 +10,12 @@ tags:
 
 - [ ] 284g mąki uniwersalnej
 - [ ] 1 łyżeczka proszku do pieczenia
-- [ ] 1/2 łyżeczki sody oczyszczonej
+- [ ] ½ łyżeczki sody oczyszczonej
 - [ ] 170g masła (w temperaturze pokojowej)
 - [ ] 150g białego cukru
 - [ ] 140g brązowego cukru
 - [ ] 1 łyżeczka ekstraktu waniliowego
-- [ ] 3/4 łyżeczki soli
+- [ ] ¾ łyżeczki soli
 - [ ] 1 jajko + 1 żółtko
 - [ ] 226g posiekanej gorzkiej czekolady (~65%)
 - [ ] kwiat soli (fleur de sel)

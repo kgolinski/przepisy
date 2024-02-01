@@ -7,11 +7,11 @@ kuchnia:
 ### Marynata
 
 * [ ] 2 filety z piersi kurczaka
-* [ ] 1/2 lyzki startego imbiru
-* [ ] 1/2 lyzki rozgniecionego czosnku
-* [ ] 1/2 lyzeczki garam masala
-* [ ] 1/2 lyzeczki soku z limonki
-* [ ] 1/2 lyzeczki chilli
+* [ ] ½ lyzki startego imbiru
+* [ ] ½ lyzki rozgniecionego czosnku
+* [ ] ½ lyzeczki garam masala
+* [ ] ½ lyzeczki soku z limonki
+* [ ] ½ lyzeczki chilli
 * [ ] 1 lyzka jogurtu
 * [ ] sól
 * [ ] [hinduski barwnik spozywczy]
@@ -19,15 +19,15 @@ kuchnia:
 ### Sos
 
 * [ ] 5 pomidorow
-* [ ] 1/2 szklanki zmielonych nerkowcow
+* [ ] ½ szklanki zmielonych nerkowcow
 * [ ] 2 lyzki masla
-* [ ] 1/2 szklanki smietany
-* [ ] 1/2 lyzeczki chilli
-* [ ] 1/2 lyzeczki kozieradki
+* [ ] ½ szklanki smietany
+* [ ] ½ lyzeczki chilli
+* [ ] ½ lyzeczki kozieradki
 * [ ] 1 lyzeczka garam masala
-* [ ] 1/2 lyzki startego imbiru
-* [ ] 1/2 lyzki rozgniecionego czosnku
-* [ ] 1/2 lyzki cukru
+* [ ] ½ lyzki startego imbiru
+* [ ] ½ lyzki rozgniecionego czosnku
+* [ ] ½ lyzki cukru
 * [ ] świeża kolendra
 
 Zmiksuj składniki marynaty, wymieszaj z kurczakiem. Odstaw na pół godziny, następnie wstaw do bardzo gorącego piekarnika na 10 min.

@@ -2,9 +2,9 @@
 |                  |            |            |
 |:-----------------|:----------:|-----------:|
 | 1 szklanka       |      250ml | 16.5 łyżki |
-| 1/2 szklanki     |      125ml |    8 łyżek |
-| 1/3 szklanki     |       80ml |    6 łyżek |
-| 1/4 szklanki     |       60ml |    4 łyżki |
+| ½ szklanki       |      125ml |    8 łyżek |
+| ⅓ szklanki       |       80ml |    6 łyżek |
+| ¼ szklanki       |       60ml |    4 łyżki |
 | 1 łyżka          |       15ml | 3 łyżeczki |
 
 |                               |            |

@@ -3,12 +3,12 @@
 ## Składniki
 
 * [ ] 1 kg mąki
-* [ ] 1/2kg cukru
+* [ ] ½ kg cukru
 * [ ] 200g margaryny
-* [ ] 1/2kg miodu
+* [ ] ½ kg miodu
 * [ ] 3 jaja
 * [ ] 2 torebki przyprawy piernikowej
-* [ ] 1/2 paczki proszku do pieczenia
+* [ ] ½ paczki proszku do pieczenia
 * [ ] 1 łyżeczka sody
 
 Jaja ubijamy z cukrem, aż cukier się rozpuści. Można je ubić na parze - będzie szybciej: miskę z jajkami i cukrem wkładamy do garnka z gorącą wodą i ubijamy mikserem.

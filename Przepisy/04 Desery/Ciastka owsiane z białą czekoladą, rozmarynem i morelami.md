@@ -10,8 +10,8 @@ tags:
 ## Składniki
 
 - [ ] 142g mąki uniwersalnej
-- [ ] 3/4 łyżeczki sody oczyszczonej
-- [ ] 1/2 łyżeczki soli
+- [ ] ¾ łyżeczki sody oczyszczonej
+- [ ] ½ łyżeczki soli
 - [ ] 170g masła
 - [ ] 150g brązowego cukru
 - [ ] 65g białego cukru

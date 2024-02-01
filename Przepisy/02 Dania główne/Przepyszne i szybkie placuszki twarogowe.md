@@ -2,7 +2,7 @@
 
 - [ ] 125 g białego sera
 - [ ] 1 jajko
-- [ ] 1/2 banana
+- [ ] ½ banana
 - [ ] 1 czubata łyżka mąki kukurydzianej
 - [ ] olej kokosowy do smażenia
 

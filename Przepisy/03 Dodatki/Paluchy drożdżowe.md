@@ -3,7 +3,7 @@
 * [ ] 25 g drożdży
 * [ ] 150 ml wody
 * [ ] 2 łyżki oleju
-* [ ] 1/2 łyżeczki soli
+* [ ] ½ łyżeczki soli
 * [ ] 1 łyżeczka cukru
 * [ ] 1 jajko
 * [ ] 400 g mąki pszennej

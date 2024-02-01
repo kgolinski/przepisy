@@ -9,7 +9,7 @@ tags:
 - [ ] 200g cukru
 - [ ] 1 łyżeczka spożywczej lawendy + więcej do posypania
 - [ ] 227g masła
-- [ ] 1/2 łyżeczki soli
+- [ ] ½ łyżeczki soli
 - [ ] 1 żółtko
 - [ ] 1 łyżeczka ekstraktu waniliowego
 - [ ] 284g mąki

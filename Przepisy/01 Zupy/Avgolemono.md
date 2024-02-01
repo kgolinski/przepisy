@@ -9,7 +9,7 @@ tags:
 ## Składniki
 
 * [ ] 6-7 szklanek wywaru z kurczaka
-* [ ] 1/2 szklanki ryżu
+* [ ] ½ szklanki ryżu
 * [ ] 3 jajka
 * [ ] sok z dwóch cytryn
 * [ ] sól

@@ -8,7 +8,7 @@
 * [ ] 375g płatków owsianych
 * [ ] 140g mąki
 * [ ] 1 łyżeczka soli
-* [ ] 1/2 łyżeczki sody
+* [ ] ½ łyżeczki sody
 * [ ] rodzynki, orzechy, suszona żurawina
 
 Nagrzej piekarnik do 180 stopni.
