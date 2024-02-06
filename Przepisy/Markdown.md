@@ -30,23 +30,32 @@ _This is italic text_
 > [!todo] Todo
 > Contents
 
-> [!abstract] > Lorem ipsum dolor sit amet
+> [!abstract] 
+> Lorem ipsum dolor sit amet
 
-> [!success] > Title-only callout
+> [!success]
+> Callout
 
-> [!question] > Lorem ipsum dolor sit amet
+> [!question]
+>  Lorem ipsum dolor sit amet
 
-> [!warning] > Lorem ipsum dolor sit amet
+> [!warning] 
+> Lorem ipsum dolor sit amet
 
-> [!failure] > Lorem ipsum dolor sit amet
+> [!failure]
+>  Lorem ipsum dolor sit amet
 
-> [!danger] > Lorem ipsum dolor sit amet
+> [!danger] 
+> Lorem ipsum dolor sit amet
 
-> [!bug] > Lorem ipsum dolor sit amet
+> [!bug] 
+> Lorem ipsum dolor sit amet
 
-> [!example] > Lorem ipsum dolor sit amet
+> [!example] 
+> Lorem ipsum dolor sit amet
 
-> [!quote] > Lorem ipsum dolor sit amet
+> [!quote] 
+> Lorem ipsum dolor sit amet
 
 
 ## Lists
