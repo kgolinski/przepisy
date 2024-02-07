@@ -1,6 +1,6 @@
 ---
 tags:
-  - konditura
+  - konfitura
   - jabłka
   - gruszki
   - śliwki

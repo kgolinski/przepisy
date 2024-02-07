@@ -24,13 +24,7 @@ tags:
 
 ## Przygotowanie
 
-1. Rozgrzej piekarnik do **180°C**. Wyłóż blachy papierem do pieczenia.
-2. W misce wymieszać mąkę, sodę i sól.
-3. W mikserze ubić masło aż będzie kremowe (ok. 1 min).
-4. Dodać cukier brązowy, biały i rozmaryn. Ubić aż będzie puszyste (2-3 min).
-5. Dodaj jajko i wanilię. Wymieszaj. 
-6. Dodaj mąkę i wymieszaj.
-7. Wrzuć płatki owsiane i połącz z resztą.
-8. Na koniec dodaj morele i białą czekoladę. Wymieszaj szpatułką.
-9. Formuj kulki z ciasta, spłaszczaj na blasze .
-10. Piecz 12-13 minut W połowie obróć blachę.
+Rozgrzej piekarnik do **180°C**. Wyłóż blachy papierem do pieczenia. W misce wymieszać mąkę, sodę i sól.
+W mikserze ubić masło aż będzie kremowe (ok. 1 min). Dodać cukier brązowy, biały i rozmaryn. Ubić aż będzie puszyste (2-3 min).
+Dodaj jajko i wanilię. Wymieszaj. Dodaj mąkę i wymieszaj. Wrzuć płatki owsiane i połącz z resztą. Na koniec dodaj morele i białą czekoladę. Wymieszaj szpatułką.
+Formuj kulki z ciasta, spłaszczaj na blasze. Piecz 12-13 minut W połowie obróć blachę.
