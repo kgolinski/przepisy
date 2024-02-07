@@ -2,6 +2,7 @@
   "name": "przepisy",
   "private": true,
   "dependencies": {
+    "@fontsource-variable/fira-code": "^5.0.16",
     "@fontsource-variable/inter": "^5.0.16",
     "@metalsmith/collections": "^1.2.1",
     "@metalsmith/layouts": "^2.5.1",
@@ -10,6 +11,9 @@
     "autoprefixer": "^10.4.17",
     "jstransformer-handlebars": "^1.2.0",
     "metalsmith": "^2.5.0",
+    "postcss-nesting": "^12.0.2",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.6",
     "slugify": "^1.6.6",
     "tailwindcss": "^3.4.1"
   },
@@ -19,6 +23,7 @@
   },
   "scripts": {
     "build": "node metalsmith.mjs",
-    "serve": "serve dist"
+    "serve": "serve dist",
+    "watch": "nodemon -w layout.hbs -w Przepisy/assets/css/style.css -x 'npm run build'"
   }
 }

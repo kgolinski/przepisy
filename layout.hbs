@@ -1,68 +1,112 @@
-<!DOCTYPE html>
-<html lang="{{ site_language }}">
+<html lang="{{site_language}}">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="{{ site_author }}" />
-    <meta property="og:title" content="{{#if (eq title 'index')}}{{ site_title }}{{else}}{{title}}{{/if}}" />
-    <meta property="og:site_name" content="{{ site_title }}" />
-    <meta property="og:description" content="{{ site_description }}" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="{{site_author}}" />
+    {{#if (eq title "index")}}
+      <meta property="og:title" content="{{site_title}}" />
+      <meta property="og:url" content="{{site_url}}" />
+      <link rel="canonical" href="{{site_url}}" />
+    {{else}}
+      <meta property="og:title" content="{{title}}" />
+      <meta property="og:url" content="{{site_url}}/{{permalink}}" />
+      <link rel="canonical" href="{{site_url}}/{{permalink}}" />
+    {{/if}}
+    <meta property="og:site_name" content="{{site_title}}" />
+    <meta property="og:description" content="{{site_description}}" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{#if (eq title 'index')}}{{ site_url }}{{else}}{{site_url}}/{{permalink}}{{/if}}" />
-    <meta property="og:image" content="{{ site_url }}{{ site_logo_raster }}" />
-    <meta property="og:locale" content="{{ site_language }}" />
-    <link rel="canonical" href="{{#if (eq title 'index')}}{{ site_url }}{{else}}{{site_url}}/{{permalink}}{{/if}}" />
-
-    <title>{{#if (eq title 'index')}}{{ site_title }}{{else}}{{site_title}} - {{title}}{{/if}}</title>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@300;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <meta property="og:image" content="{{site_url}}{{site_logo_raster}}" />
+    <meta property="og:locale" content="{{site_language}}" />
+    <title>{{#if (eq title "index")}}{{site_title}}{{else}}{{site_title}}
+        -
+        {{title}}{{/if}}</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@300;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="/">{{ site_title }}</a></h1>
-        <img src="{{ site_logo }}" alt="Illustration by {{ site_logo_source }}" />
-        <p>{{ site_description }}</p>
-        <p class="view"><a href="{{ site_github_repository_url }}">View the Project on GitHub <small>{{ site_github_repository_nwo }}</small></a></p>
+  <body
+    class="bg-white p-4 font-light text-zinc-500 subpixel-antialiased sm:p-12"
+  >
+    <div class="mx-auto max-w-4xl">
+      <header class="lg:fixed lg:float-left lg:max-w-80 print:hidden">
+        <h1 class="mb-4 mt-0 text-2xl font-semibold uppercase text-zinc-700"><a
+            href="/"
+          >
+            {{site_title}}</a></h1>
+        <img
+          src="{{site_logo}}"
+          class="mx-auto my-4"
+          alt="Illustration by {{site_logo_source}}"
+        />
+        <p class="mb-4 text-sm">{{site_description}}</p>
       </header>
-      <section>
-        {{#if (eq title 'index') }}
-          <h2 id="spis_tresci">Spis treści</h2>
-          {{#each collections }}
-            <h3 id="{{ slugify @key }}">{{@key}}</h3>
-            <ol>
+      <section
+        class="prose mb-12 py-12 lg:float-right lg:w-7/12 lg:pb-12 lg:pt-0"
+      >
+        {{#if (eq title "index")}}
+          <h2
+            class="text-xl font-bold uppercase text-zinc-700"
+            id="spis_tresci"
+          >Spis treści</h2>
+          {{#each collections}}
+            <h3 id="{{slugify @key}}">{{@key}}</h3>
+            <ol class="flex flex-col gap-1">
               {{#each this}}
-                <li><a href="{{ permalink }}">{{ title }}</a></li>
+                <li class="flex gap-2 leading-5"><a
+                    href="{{permalink}}"
+                  >{{title}}</a></li>
               {{/each}}
             </ol>
           {{/each}}
+          {{{contents}}}
         {{else}}
-          <h1 id="{{slugify title}}">{{ title }}</h1>
-          {{{ contents }}}
-          {{#if kuchnia }}
-            <div class="cuisine">Kuchnia:
+          <h1 id="{{slugify title}}">{{title}}</h1>
+          {{{contents}}}
+          {{#if kuchnia}}<hr />{{else}}
+            {{#if tags}}<hr />{{/if}}
+          {{/if}}
+          {{#if kuchnia}}
+            <div class="mb-0.5 text-xs">Kuchnia:
               {{#each kuchnia}}
-                <span>{{this}}</span>{{#unless @last}},{{/unless}}
+                <span class="font-semibold">{{this}}</span>{{#unless
+                  @last
+                }},{{/unless}}
               {{/each}}
             </div>
           {{/if}}
-          {{#if tags }}
-            <div class="tags">Tagi:
+          {{#if tags}}
+            <div class="mb-0.5 text-xs">Tagi:
               {{#each tags}}
-                <span>{{this}}</span>{{#unless @last}},{{/unless}}
+                <span class="font-semibold">{{this}}</span>{{#unless
+                  @last
+                }},{{/unless}}
               {{/each}}
             </div>
           {{/if}}
         {{/if}}
       </section>
 
-      <footer>
-        <p>This project is maintained by <a href="{{ site_github_owner_url }}">{{ site_github_owner_name }}</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      <footer class="bottom-12 lg:fixed lg:float-left lg:max-w-80">
+        <p class="mb-4 mt-8 text-xs print:hidden">
+          <a
+            href="{{site_github_repository_url}}"
+            class="text-zinc-700 hover:text-zinc-900"
+          >
+            Źródło projektu na GitHub
+          </a>
+        </p>
+        <p class="hidden print:block">
+          {{#if (eq title "index")}}
+            {{site_url}}
+          {{else}}
+            {{site_url}}/{{permalink}}
+          {{/if}}
+          &middot;
+          {{site_year}}
+        </p>
       </footer>
     </div>
   </body>
