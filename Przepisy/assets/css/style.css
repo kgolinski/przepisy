@@ -190,11 +190,15 @@
   }
 
   ol:first-of-type {
-    counter-reset: item
+    counter-reset: item;
   }
 
   ol li {
-    counter-increment: item
+    p {
+      @apply inline;
+    }
+
+    counter-increment: item;
   }
 
   ol li:before {
