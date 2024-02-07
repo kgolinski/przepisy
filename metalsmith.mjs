@@ -5,8 +5,16 @@ import postcss from '@metalsmith/postcss'
 import layouts from '@metalsmith/layouts'
 import { fileURLToPath } from 'node:url'
 import Metalsmith from 'metalsmith'
-import { readdirSync } from 'fs'
+import { readdirSync, copyFileSync, mkdirSync } from 'fs'
 import slugify from 'slugify'
+
+const fonts = [
+  '@fontsource-variable/fira-code/files/fira-code-latin-wght-normal.woff2',
+  '@fontsource-variable/inter/files/inter-latin-slnt-normal.woff2',
+  '@fontsource-variable/inter/files/inter-latin-ext-slnt-normal.woff2',
+  '@fontsource-variable/inter/files/inter-vietnamese-slnt-normal.woff2',
+  '@fontsource-variable/inter/files/inter-cyrillic-slnt-normal.woff2',
+]
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const folders = readdirSync('./Przepisy', { withFileTypes: true })
@@ -143,6 +151,13 @@ Metalsmith(__dirname)
   )
   .build((err, files) => {
     if (err) throw err
+    mkdirSync('./dist/assets/css/files')
+    fonts.forEach((font) => {
+      copyFileSync(
+        `./node_modules/${font}`,
+        `./dist/assets/css/files/${basename(font)}`,
+      )
+    })
     console.log(
       `Built ${Object.keys(files).length} files in ${((performance.now() - t1) / 1000).toFixed(1)}s`,
     )
