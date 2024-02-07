@@ -168,7 +168,17 @@
 
   th,
   td {
-    @apply py-1.5 px-2.5;
+    @apply py-1.5 px-2.5 text-left;
+  }
+
+  th[align="right"],
+  td[align="right"] {
+    @apply text-right;
+  }
+
+  th[align="center"],
+  td[align="center"] {
+    @apply text-center;
   }
 
   th:not(:empty),
