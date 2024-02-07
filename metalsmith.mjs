@@ -8,6 +8,7 @@ import Metalsmith from 'metalsmith'
 import { readdirSync, copyFileSync, mkdirSync } from 'fs'
 import slugify from 'slugify'
 
+const source = './Przepisy'
 const fonts = [
   '@fontsource-variable/fira-code/files/fira-code-latin-wght-normal.woff2',
   '@fontsource-variable/inter/files/inter-latin-slnt-normal.woff2',
@@ -28,7 +29,11 @@ const t1 = performance.now()
 const hideTodos = (files, metalsmith, done) => {
   const keys = Object.keys(files)
   keys.forEach((filepath) => {
-    if (files[filepath].tags && files[filepath].tags.includes('todo')) {
+    if (
+      (files[filepath].tags && files[filepath].tags.includes('todo')) ||
+      filepath == 'favicon.ico' ||
+      filepath == 'CNAME'
+    ) {
       delete files[filepath]
     }
   })
@@ -101,7 +106,7 @@ const callouts = (files, metalsmith, done) => {
 }
 
 Metalsmith(__dirname)
-  .source('./Przepisy')
+  .source(source)
   .destination('./dist')
   .use(
     postcss({
@@ -158,6 +163,9 @@ Metalsmith(__dirname)
         `./dist/assets/css/files/${basename(font)}`,
       )
     })
+    copyFileSync(`${source}/favicon.ico`, './dist/favicon.ico')
+    copyFileSync(`${source}/CNAME`, './dist/CNAME')
+
     console.log(
       `Built ${Object.keys(files).length} files in ${((performance.now() - t1) / 1000).toFixed(1)}s`,
     )
