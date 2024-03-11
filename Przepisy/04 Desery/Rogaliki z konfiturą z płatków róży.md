@@ -11,10 +11,10 @@
 ## Przygotowanie
 
 Ciasto nie musi rosnąć, trzeba od razu piec.
-Wałkować i wycinać mniejsze placki, na które trzeba wkładać konfiturę
+Ciasto rozwałkować na max 5mm. Pociąć na kwadraty 8×8cm, nałożyć konfiturę, zawinąć i zagiąć rogi w rogalik.
+Piec w temperaturze 180°C aż będą rumiane.
+Lukrować po wystygnięciu.
 
-Ciasto rozwałkować na max 5mm
-Kształt - kwadraty 8×8
+## Lukier
 
-Lukier
 3-4 duże łyżki cukru pudru. 1 łyżkę wrzątku. Dobrze wymieszać, ewentualnie dodać trochę soku z cytryny.

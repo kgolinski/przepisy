@@ -4,20 +4,21 @@ kuchnia:
 ---
 ## Składniki
 
-* [ ] 2 litry mleka 3,2%
-* [ ] ½ szklanki soku z cytryny
-* [ ] gaza
+- [ ] 2 litry mleka 3,2%
+- [ ] ½ szklanki soku z cytryny
+- [ ] gaza
+- [ ] 1 łyżeczka soli
+- [ ] 1 łyżeczka kurkumy
+- [ ] ½ łyżeczki chilli
+- [ ] 5 łyżeczek Garam Masala
+- [ ] 300g posiekanego szpinaku
+- [ ] 1 cebula
+- [ ] 1 zielona papryczka
+- [ ] 5cm imbiru
+- [ ] 4 - 6 ząbków czosnku
+- [ ] 1 szklanka jogurtu
 
-* [ ] 1 łyżeczka soli
-* [ ] 1 łyżeczka kurkumy
-* [ ] ½ łyżeczki chilli
-* [ ] 5 łyżeczek Garam Masala
-* [ ] 300g posiekanego szpinaku
-* [ ] 1 cebula
-* [ ] 1 zielona papryczka
-* [ ] 5cm imbiru
-* [ ] 4 - 6 ząbków czosnku
-* [ ] 1 szklanka jogurtu
+## Przygotowanie
 
 Zagotuj mleko, dodaj sok z cytryny. Pogotuj 5 min. Odstaw na kolejne 5 min. Odcedź na gazie, zwiń i powieś na chwilę do odcieknięcia.
 Połóż na ręczniku papierowym między talerzami w lodówce.
