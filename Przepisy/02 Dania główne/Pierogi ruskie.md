@@ -19,6 +19,8 @@ kuchnia:
 - [ ] sól
 - [ ] pieprz
 
+## Przygotowanie
+
 Do miski przesiać mąkę. Dodać sól oraz olej. Wlać szklankę gorącej, przegotowanej wody i wyrabiać chwilę na jednolite ciasto. Odstawić
 
 Ziemniaki ugotować, przecisnąć przez prasę, dodać twaróg. Obrać cebulę, posiekać i zrumienić na złoto.
