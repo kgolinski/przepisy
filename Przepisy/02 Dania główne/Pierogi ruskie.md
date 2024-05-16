@@ -13,8 +13,8 @@ kuchnia:
 
 ### Nadzienie
 
-- [ ] 80 dkg ziemniaków
-- [ ] 20 dkg twarogu
+- [ ] 500 g ziemniaków
+- [ ] 500 g twarogu
 - [ ] 2 cebule
 - [ ] sól
 - [ ] pieprz
