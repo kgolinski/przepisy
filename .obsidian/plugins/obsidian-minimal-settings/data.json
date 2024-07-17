@@ -1,5 +1,4 @@
 {
-  "theme": "moonstone",
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-ayu-light",
@@ -19,18 +18,19 @@
   "chartWidth": "chart-default-width",
   "colorfulHeadings": false,
   "colorfulFrame": false,
-  "colorfulActiveStates": false,
+  "colorfulActiveStates": true,
   "trimNames": true,
-  "labeledNav": false,
+  "labeledNav": true,
   "fullWidthMedia": true,
   "bordersToggle": true,
   "minimalStatus": true,
   "focusMode": true,
   "underlineInternal": true,
   "underlineExternal": true,
-  "useSystemTheme": false,
   "folding": false,
   "lineNumbers": false,
   "readableLineLength": true,
-  "devBlockWidth": false
+  "devBlockWidth": false,
+  "theme": "moonstone",
+  "useSystemTheme": false
 }

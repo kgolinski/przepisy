@@ -26,5 +26,6 @@
   "spellcheck": false,
   "autoPairBrackets": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Przepisy"
+  "newFileFolderPath": "Przepisy",
+  "showRibbon": false
 }
