@@ -5,7 +5,7 @@
 - [ ] 20g soli
 - [ ] garść pestek dyni, słonecznika lub sezamu
 - [ ] łyżka pasty miso (opcjonalnie)
-- [ ] ok.950ml (g) wody źródlanej lub filtrowanej
+- [ ] ok. 950g wody źródlanej lub filtrowanej
 
 ## Przygotowanie
 
