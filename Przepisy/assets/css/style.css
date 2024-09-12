@@ -1,5 +1,5 @@
 @import "@fontsource-variable/fira-code";
-@import '@fontsource-variable/inter/slnt.css';
+@import '@fontsource-variable/inter';
 
 @tailwind base;
 @tailwind components;
