@@ -15,6 +15,8 @@
 * [ ] 4 jaja
 * [ ] 3 białka
 
+## Przygotowanie
+
 Zagnieść ciasto. Upiec placek.
 
 Zetrzeć żółtą skórkę ( bez białego miąższu ) z trzech cytryn ( umytych i sparzonych ).

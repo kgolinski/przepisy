@@ -11,6 +11,8 @@
 * [ ] ½ łyżeczki sody
 * [ ] rodzynki, orzechy, suszona żurawina
 
+## Przygotowanie
+
 Nagrzej piekarnik do 180 stopni.
 W blenderze pomieszaj masło i cukier. Dodaj jajko, wodę i wanilię i mieszaj aż będzie gładkie.
 W osobnym naczyniu pomieszaj płatki owsiane, mąkę, sól, sodę i bakalie.
