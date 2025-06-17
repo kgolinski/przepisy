@@ -1,6 +1,12 @@
 @import "@fontsource-variable/fira-code";
 @import '@fontsource-variable/inter';
-@import '@tailwindcss';
+@import "tailwindcss";
+@source "layout.hbs";
+
+@theme {
+  --font-sans: "Inter Variable", "system-ui";
+  --font-mono: "Fira Code Variable", "monospace";
+}
 
 .prose {
   @apply text-sm leading-6;
