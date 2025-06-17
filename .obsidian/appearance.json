@@ -9,5 +9,6 @@
   "monospaceFontFamily": "Berkeley Mono",
   "cssTheme": "Minimal",
   "baseFontSizeAction": false,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "showRibbon": false
 }
