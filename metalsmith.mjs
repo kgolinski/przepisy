@@ -116,7 +116,7 @@ Metalsmith(__dirname)
       plugins: {
         "postcss-import": {},
         "postcss-nesting": {},
-        tailwindcss: {},
+        "@tailwindcss/postcss": {},
         autoprefixer: {},
       },
     })
