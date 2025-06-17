@@ -8,16 +8,16 @@
     "@metalsmith/layouts": "^2.7",
     "@metalsmith/markdown": "^1.10",
     "@metalsmith/postcss": "^5.4",
-    "@tailwindcss/postcss": "^4.1.10",
+    "@tailwindcss/postcss": "^4.1",
     "autoprefixer": "^10.4",
-    "jstransformer-handlebars": "^1.2.0",
+    "jstransformer-handlebars": "^1.2",
     "metalsmith": "^2.6",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5",
     "postcss-nesting": "^13.0",
     "prettier": "^3.5",
-    "prettier-plugin-tailwindcss": "^0.6.12",
+    "prettier-plugin-tailwindcss": "^0.6",
     "slugify": "^1.6",
-    "tailwindcss": "^4.1.10"
+    "tailwindcss": "^4.1"
   },
   "devDependencies": {
     "postcss-import": "^16.1",
