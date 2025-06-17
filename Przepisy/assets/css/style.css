@@ -1,9 +1,6 @@
 @import "@fontsource-variable/fira-code";
 @import '@fontsource-variable/inter';
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import '@tailwindcss';
 
 .prose {
   @apply text-sm leading-6;
