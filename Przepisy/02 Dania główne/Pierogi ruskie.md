@@ -2,16 +2,8 @@
 kuchnia:
   - polska
 ---
+
 ## Składniki
-
-### Ciasto
-
-- [ ] 500 g mąki pszennej typ 500
-- [ ] pół łyżeczki soli
-- [ ] 4 łyżki oleju (50ml)
-- [ ] szklanka gorącej wody
-
-### Nadzienie
 
 - [ ] 500 g ziemniaków
 - [ ] 500 g twarogu
@@ -21,7 +13,7 @@ kuchnia:
 
 ## Przygotowanie
 
-Do miski przesiać mąkę. Dodać sól oraz olej. Wlać szklankę gorącej, przegotowanej wody i wyrabiać chwilę na jednolite ciasto. Odstawić
+Zrobić [[Ciasto na pierogi]]
 
 Ziemniaki ugotować, przecisnąć przez prasę, dodać twaróg. Obrać cebulę, posiekać i zrumienić na złoto.
 Wymieszać składniki, dodać sól i pieprz (sporo) do smaku.
