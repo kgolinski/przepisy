@@ -1,7 +1,7 @@
 ---
 kuchnia: turecka
 tags: śniadanie
-source: https://www.rozkoszny.pl/jajka-po-turecku-z-wedzona-papryka-i-palonym-maslem-cilbir
+source: "[Rozkoszny](https://www.rozkoszny.pl/jajka-po-turecku-z-wedzona-papryka-i-palonym-maslem-cilbir)"
 ---
 
 ## Składniki

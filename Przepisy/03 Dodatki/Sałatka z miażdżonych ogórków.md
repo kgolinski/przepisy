@@ -1,7 +1,7 @@
 ---
 kuchnia: azjatycka
 tags: todo
-source: https://thewoksoflife.com/smashed-asian-cucumber-salad
+source: "[The Woks of Life](https://thewoksoflife.com/smashed-asian-cucumber-salad)"
 ---
 > Świetne jako dodatek do [[Congee]]
 
