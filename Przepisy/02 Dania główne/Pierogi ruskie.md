@@ -13,7 +13,7 @@ kuchnia:
 
 ## Przygotowanie
 
-Zrobić [[Ciasto na pierogi]]
+Zrobić [[Ciasto na pierogi 1]]
 
 Ziemniaki ugotować, przecisnąć przez prasę, dodać twaróg. Obrać cebulę, posiekać i zrumienić na złoto.
 Wymieszać składniki, dodać sól i pieprz (sporo) do smaku.
