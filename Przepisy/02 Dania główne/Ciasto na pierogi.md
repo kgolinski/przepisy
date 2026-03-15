@@ -12,4 +12,4 @@ kuchnia:
 
 ## Przygotowanie
 
-Do miski przesiać mąkę. Dodać sól oraz olej. Wlać szklankę gorącej, przegotowanej wody i wyrabiać chwilę na jednolite ciasto. Odstawić
+Do miski przesiać mąkę. Dodać sól oraz olej. Wlać szklankę gorącej, przegotowanej wody i wyrabiać chwilę na jednolite ciasto. Odstawić.

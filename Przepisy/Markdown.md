@@ -75,7 +75,7 @@ Ordered
 Start numbering with offset:
 
 57. foo
-1. bar
+58. bar
 
 ## Code
 
@@ -98,10 +98,10 @@ Syntax highlighting
 
 ```js
 var foo = function (bar) {
-  return bar++
-}
+  return bar++;
+};
 
-console.log(foo(5))
+console.log(foo(5));
 ```
 
 ## Tables
@@ -124,12 +124,12 @@ Right aligned columns
 
 [link text](http://dev.nodeca.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ 'title text!')
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg 'The Stormtroopocat')
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
