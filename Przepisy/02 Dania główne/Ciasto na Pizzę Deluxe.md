@@ -1,11 +1,11 @@
 ## Składniki (na 4 pizze o średnicy 35cm)
 
-* [ ] 795g mąki pszennej typ 00
-* [ ] 495g wody
-* [ ] 3,5g drożdży suchych
-* [ ] 15,5g soli
-* [ ] 8g cukru
-* [ ] 12ml oliwy z oliwek
+- [ ] 795g mąki pszennej typ 00
+- [ ] 495g wody
+- [ ] 3,5g drożdży suchych
+- [ ] 15,5g soli
+- [ ] 8g cukru
+- [ ] 12ml oliwy z oliwek
 
 ## Przygotowanie
 

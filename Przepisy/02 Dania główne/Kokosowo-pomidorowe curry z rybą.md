@@ -1,20 +1,20 @@
 ## Składniki
 
-* [ ] 3 łyżki masła klarowanego, oleju roślinnego lub oliwy z oliwek
-* [ ] 1 łyżeczka nasion gorczycy (mustard seeds, najlepiej brązowych)
-* [ ] 1 łyżeczka nasion kopru włoskiego
-* [ ] 1 średniej wielkości czerwona cebula (ok. 100 g, posiekana)
-* [ ] 2 ząbki czosnku, posiekane
-* [ ] 3 cm kawałek świeżego imbiru starty na tarce
-* [ ] 200 g pomidorów z puszki (lub w sezonie świeżych pomidorów)
-* [ ] 1 łyżeczka kurkumy
-* [ ] 1 łyżeczka soli
-* [ ] ½ łyżeczki pieprzu (lub do smaku)
-* [ ] 20 listków bazylii (najlepsze byłyby liście curry, ale nie mam)
-* [ ] 10 listków tajskiej bazylii (opcjonalnie, ale warto)
-* [ ] 200 ml dobrze wymieszanego mleka kokosowego
-* [ ] 400 g białej ryby (np. okonia, dorsza, itp)
-* [ ] do smaku: sok z limonki
+- [ ] 3 łyżki masła klarowanego, oleju roślinnego lub oliwy z oliwek
+- [ ] 1 łyżeczka nasion gorczycy (mustard seeds, najlepiej brązowych)
+- [ ] 1 łyżeczka nasion kopru włoskiego
+- [ ] 1 średniej wielkości czerwona cebula (ok. 100 g, posiekana)
+- [ ] 2 ząbki czosnku, posiekane
+- [ ] 3 cm kawałek świeżego imbiru starty na tarce
+- [ ] 200 g pomidorów z puszki (lub w sezonie świeżych pomidorów)
+- [ ] 1 łyżeczka kurkumy
+- [ ] 1 łyżeczka soli
+- [ ] ½ łyżeczki pieprzu (lub do smaku)
+- [ ] 20 listków bazylii (najlepsze byłyby liście curry, ale nie mam)
+- [ ] 10 listków tajskiej bazylii (opcjonalnie, ale warto)
+- [ ] 200 ml dobrze wymieszanego mleka kokosowego
+- [ ] 400 g białej ryby (np. okonia, dorsza, itp)
+- [ ] do smaku: sok z limonki
 
 Rybę umyć, osuszyć i delikatnie posolić.
 W płaskim garnku rozgrzać tłuszcz, dodać nasiona gorczycy, a kiedy zaczną podskakiwać, dodać koper włoski.

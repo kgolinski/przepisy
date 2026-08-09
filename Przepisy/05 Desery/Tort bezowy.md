@@ -2,19 +2,19 @@
 
 ### Blaty bezowe
 
-* [ ] 250 g białek - z 6 średnich jaj lub 7 małych
-* [ ] szczypta soli
-* [ ] 300 g drobnego cukru
-* [ ] 1 łyżeczka mąki ziemniaczanej - skrobi
-* [ ] 1 łyżeczka octu - u mnie spirytusowy
+- [ ] 250 g białek - z 6 średnich jaj lub 7 małych
+- [ ] szczypta soli
+- [ ] 300 g drobnego cukru
+- [ ] 1 łyżeczka mąki ziemniaczanej - skrobi
+- [ ] 1 łyżeczka octu - u mnie spirytusowy
 
 ### Krem
 
-* [ ] 400 ml śmietanki kremówki
-* [ ] 250 g serka mascarpone
-* [ ] 400 g ulubionych owoców: wiśni, malin itp.
-* [ ] 1 łyżka cukru waniliowego
-* [ ] 1 łyżka cukru pudru
+- [ ] 400 ml śmietanki kremówki
+- [ ] 250 g serka mascarpone
+- [ ] 400 g ulubionych owoców: wiśni, malin itp.
+- [ ] 1 łyżka cukru waniliowego
+- [ ] 1 łyżka cukru pudru
 
 Jak zrobić blaty bezowe:
 Oddziel białka od żółtek. Białka umieść w dużej misce, zaś żółtka odłóż np. do upieczenia babki drożdżowej z rodzynkami.

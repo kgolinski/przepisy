@@ -1,9 +1,9 @@
 ## Składniki
 
-* [ ] 40g masła
-* [ ] 40g cebuli
-* [ ] 30g mąki
-* [ ] ¼ - ⅓ l wywaru z ryby lub innego
+- [ ] 40g masła
+- [ ] 40g cebuli
+- [ ] 30g mąki
+- [ ] ¼ - ⅓ l wywaru z ryby lub innego
 - [ ] 150ml czerwonego wina
 - [ ] 30-40g rodzynek
 - [ ] 30-40g migdałów (słupki lub płatki)

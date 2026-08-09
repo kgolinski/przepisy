@@ -9,7 +9,7 @@ tags:
 - [ ] 1 ½ szklanki mąki pszennej
 - [ ] ⅓ szklanki płatków owsianych
 - [ ] 1 łyżeczka proszku do pieczenia
-- [ ] ½ łyżeczki sody oczyszczonej
+- [ ] ½ łyżeczki sody oczyszczoneja zna
 - [ ] ½ łyżeczki soli
 - [ ] 60 g miękkiego masła
 - [ ] ¾ szklanki brązowego cukru

@@ -1,13 +1,13 @@
 ## Składniki
 
-* [ ] 25 g drożdży
-* [ ] 150 ml wody
-* [ ] 2 łyżki oleju
-* [ ] ½ łyżeczki soli
-* [ ] 1 łyżeczka cukru
-* [ ] 1 jajko
-* [ ] 400 g mąki pszennej
-* [ ] mleko do posmarowania paluchów
+- [ ] 25 g drożdży
+- [ ] 150 ml wody
+- [ ] 2 łyżki oleju
+- [ ] ½ łyżeczki soli
+- [ ] 1 łyżeczka cukru
+- [ ] 1 jajko
+- [ ] 400 g mąki pszennej
+- [ ] mleko do posmarowania paluchów
 
 ## Przygotowanie
 

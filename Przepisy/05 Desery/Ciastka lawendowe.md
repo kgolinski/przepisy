@@ -21,6 +21,3 @@ tags:
 - [ ] 60g [[Crème fraîche]]
 
 ## Przygotowanie
-
-1. 
-

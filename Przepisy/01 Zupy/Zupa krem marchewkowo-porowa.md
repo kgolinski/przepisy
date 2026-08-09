@@ -1,17 +1,17 @@
 ## Składniki
 
-* [ ] 2 łyżki masła lub oleju roślinnego
-* [ ] 1 cebula
-* [ ] 1 ząbek czosnku
-* [ ] 300 g białych i jasnozielonych części porów (z około 2 porów)
-* [ ] 2 łyżki oliwy extra vergine
-* [ ] 1 kg marchewki
-* [ ] 1 łyżeczka cukru
-* [ ] 2 - 3 łyżeczki czerwonej słodkiej papryki w proszku (lub 1-2 łyżeczki słodkiej i 1 łyżeczka ostrej papryki)
-* [ ] sól morska
-* [ ] 750 ml bulionu jarzynowego
-* [ ] 1 łyżka soku z cytryny
-* [ ] 375 ml mleka (krowiego lub kokosowego)
+- [ ] 2 łyżki masła lub oleju roślinnego
+- [ ] 1 cebula
+- [ ] 1 ząbek czosnku
+- [ ] 300 g białych i jasnozielonych części porów (z około 2 porów)
+- [ ] 2 łyżki oliwy extra vergine
+- [ ] 1 kg marchewki
+- [ ] 1 łyżeczka cukru
+- [ ] 2 - 3 łyżeczki czerwonej słodkiej papryki w proszku (lub 1-2 łyżeczki słodkiej i 1 łyżeczka ostrej papryki)
+- [ ] sól morska
+- [ ] 750 ml bulionu jarzynowego
+- [ ] 1 łyżka soku z cytryny
+- [ ] 375 ml mleka (krowiego lub kokosowego)
 
 ## Przygotowanie
 

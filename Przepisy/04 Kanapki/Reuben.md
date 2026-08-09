@@ -7,21 +7,21 @@ source: "[Andy Cooks](https://www.youtube.com/shorts/gjhqsesfmcw)"
 
 ## Składniki
 
-* [ ] 4 kromki chleba żytniego na zakwasie
-* [ ] 200 g wędliny wołowej
-* [ ] 2 plastry żółtego  sera (Gruyère, Ementaler lub Gouda)
-* [ ] 1 szklanka kapusty kiszonej
-* [ ] 2-3 łyżki masła
+- [ ] 4 kromki chleba żytniego na zakwasie
+- [ ] 200 g wędliny wołowej
+- [ ] 2 plastry żółtego  sera (Gruyère, Ementaler lub Gouda)
+- [ ] 1 szklanka kapusty kiszonej
+- [ ] 2-3 łyżki masła
 
 ### Sos
 
-* [ ] 3 łyżki majonezu
-* [ ] 1 łyżka ketchupu
-* [ ] 1 łyżka sosu Worcestershire
-* [ ] 1 łyżeczka chrzanu
-* [ ] ½ łyżeczki wędzonej papryki
-* [ ] szczypta soli
-* [ ] szczypta pieprzu
+- [ ] 3 łyżki majonezu
+- [ ] 1 łyżka ketchupu
+- [ ] 1 łyżka sosu Worcestershire
+- [ ] 1 łyżeczka chrzanu
+- [ ] ½ łyżeczki wędzonej papryki
+- [ ] szczypta soli
+- [ ] szczypta pieprzu
 
 
 ## Przygotowanie

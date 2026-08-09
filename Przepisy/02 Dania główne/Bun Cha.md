@@ -38,3 +38,4 @@ Wymieszać składniki sosu aż cukier się rozpuści (można zblendować).
 Wymieszać składniki klopsików. Wstawić do lodówki na 30 min. Formować kuleczki o średnicy 3-4cm. Piec w temperaturze 180°C aż się zarumienią delikatnie.
 
 W misce rozłożyć makaron ryżowy, dodatki i klopsiki. Polać sosem.
+

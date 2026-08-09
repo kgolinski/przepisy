@@ -6,25 +6,25 @@ tags:
 
 ### Ciasto
 
-* [ ] 75g drożdży
-* [ ] 1 łyżeczka cukru
-* [ ] 1 żółtko
-* [ ] 1 jajko
-* [ ] 5 łyżek kwaśnej śmietany
-* [ ] 5 łyżek mleka
-* [ ] ½ kg mąki
-* [ ] 250g margaryny
+- [ ] 75g drożdży
+- [ ] 1 łyżeczka cukru
+- [ ] 1 żółtko
+- [ ] 1 jajko
+- [ ] 5 łyżek kwaśnej śmietany
+- [ ] 5 łyżek mleka
+- [ ] ½ kg mąki
+- [ ] 250g margaryny
 
 ### Farsz
 
-* [ ] 1kg kiszonej kapusty
-* [ ] 1kg białej kapusty
-* [ ] 200g suszonych grzybów
-* [ ] 1 jajko
-* [ ] 2-3 średnie cebule
-* [ ] gałka muszkatołowa
-* [ ] 2 łyżki oleju
-* [ ] 2-4 łyżki tartej bułki
+- [ ] 1kg kiszonej kapusty
+- [ ] 1kg białej kapusty
+- [ ] 200g suszonych grzybów
+- [ ] 1 jajko
+- [ ] 2-3 średnie cebule
+- [ ] gałka muszkatołowa
+- [ ] 2 łyżki oleju
+- [ ] 2-4 łyżki tartej bułki
 
 Grzyby kruszymy i zalewamy wodą poprzedniego dnia.
 Drożdże rozkruszamy, dodajemy cukier i odstawiamy żeby zaczęły rosnąć.

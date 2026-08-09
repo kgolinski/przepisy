@@ -8,13 +8,13 @@ tags:
 
 ## Składniki
 
-* [ ] 6-7 szklanek wywaru z kurczaka
-* [ ] ½ szklanki ryżu
-* [ ] 3 jajka
-* [ ] sok z dwóch cytryn
-* [ ] sól
-* [ ] świeżo zmielony czarny pieprz
-* [ ] kilka plasterków cytryny do przybrania
+- [ ] 6-7 szklanek wywaru z kurczaka
+- [ ] ½ szklanki ryżu
+- [ ] 3 jajka
+- [ ] sok z dwóch cytryn
+- [ ] sól
+- [ ] świeżo zmielony czarny pieprz
+- [ ] kilka plasterków cytryny do przybrania
 
 ## Przygotowanie
 

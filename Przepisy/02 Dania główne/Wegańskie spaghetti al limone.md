@@ -6,14 +6,14 @@ tags:
 ---
 ## Składniki
 
-* [ ] 1 żółta cukinia
-* [ ] skórka z jednej cytryny
-* [ ] 2-3 łyżki soku z cytryny
-* [ ] 1-2 łyżki płatków drożdzowych
-* [ ] oliwa z oliwek
-* [ ] sól, pieprz
-* [ ] świeża bazylia lub natka pietruszki
-* [ ] 1 filiżanka wody z gotowania makaronu
+- [ ] 1 żółta cukinia
+- [ ] skórka z jednej cytryny
+- [ ] 2-3 łyżki soku z cytryny
+- [ ] 1-2 łyżki płatków drożdzowych
+- [ ] oliwa z oliwek
+- [ ] sól, pieprz
+- [ ] świeża bazylia lub natka pietruszki
+- [ ] 1 filiżanka wody z gotowania makaronu
 
 ## Przygotowanie
 

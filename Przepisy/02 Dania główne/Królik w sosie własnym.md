@@ -1,14 +1,14 @@
 ## Składniki
 
-* [ ] cały królik lub comber
-* [ ] 2 ząbki czosnku
-* [ ] cebula
-* [ ] 2 łyżki masła
-* [ ] sól
-* [ ] świeżo zmielony pieprz
-* [ ] łyżeczka majeranku
-* [ ] łyżeczka słodkiej papryki
-* [ ] 3 łyżki śmietany
+- [ ] cały królik lub comber
+- [ ] 2 ząbki czosnku
+- [ ] cebula
+- [ ] 2 łyżki masła
+- [ ] sól
+- [ ] świeżo zmielony pieprz
+- [ ] łyżeczka majeranku
+- [ ] łyżeczka słodkiej papryki
+- [ ] 3 łyżki śmietany
 
 ## Przygotowanie
 

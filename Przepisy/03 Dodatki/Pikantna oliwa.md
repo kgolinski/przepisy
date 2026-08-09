@@ -1,15 +1,15 @@
 ## Składniki
 
-* [ ] Dość duży słoik z hermetycznym zamknięciem
-* [ ] Oliwa z oliwek
-* [ ] Oliwki ( z pastą paprykową w środku lub bez, jak się lubi)
-* [ ] Papryczki Jalapeno
-* [ ] Papryczki Chilli
-* [ ] Suszone mielone Peperoncino
-* [ ] Czosnek główka
-* [ ] Świeża bazylia
-* [ ] takoż samo oregano
-* [ ] odrobina soli
+- [ ] Dość duży słoik z hermetycznym zamknięciem
+- [ ] Oliwa z oliwek
+- [ ] Oliwki ( z pastą paprykową w środku lub bez, jak się lubi)
+- [ ] Papryczki Jalapeno
+- [ ] Papryczki Chilli
+- [ ] Suszone mielone Peperoncino
+- [ ] Czosnek główka
+- [ ] Świeża bazylia
+- [ ] takoż samo oregano
+- [ ] odrobina soli
 
 ## Przygotowanie
 

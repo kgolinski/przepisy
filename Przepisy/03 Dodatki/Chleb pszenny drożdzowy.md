@@ -1,9 +1,9 @@
 ## Składniki
 
-* [ ] 400g mąki (najlepiej typ 650)
-* [ ] 330g wody
-* [ ] 8g soli
-* [ ] 1g drożdży instant
+- [ ] 400g mąki (najlepiej typ 650)
+- [ ] 330g wody
+- [ ] 8g soli
+- [ ] 1g drożdży instant
 
 Potrzebny jest garnek (stalowy lub żeliwny - ważne żeby nie miał plastikowych elementów i można było go włożyć do piekarnika)
 

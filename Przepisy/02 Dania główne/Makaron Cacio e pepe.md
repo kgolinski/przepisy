@@ -7,11 +7,11 @@ tags:
 ---
 ## Składniki
 
-* [ ] makaron spaghetti, bucatini lub tagliatele
-* [ ] 3 łyżki masła
-* [ ] 2 płaskie łyżeczki świeżo zmielonego pieprzu
-* [ ] ¾ filiżanki Grana Padano startego na małych oczkach
-* [ ] ½ filiżanki Pecorino startego na małych oczkach
+- [ ] makaron spaghetti, bucatini lub tagliatele
+- [ ] 3 łyżki masła
+- [ ] 2 płaskie łyżeczki świeżo zmielonego pieprzu
+- [ ] ¾ filiżanki Grana Padano startego na małych oczkach
+- [ ] ½ filiżanki Pecorino startego na małych oczkach
 
 ## Przygotowanie
 

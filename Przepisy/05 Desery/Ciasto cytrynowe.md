@@ -1,19 +1,19 @@
 ## Składniki 
 
 ### Ciasto 
-* [ ] 40 dkg mąki
-* [ ] 25 dkg margaryny
-* [ ] 10 dkg cukru
-* [ ] 2 łyżki śmietany
-* [ ] 1 łyżeczka proszku do pieczenia
+- [ ] 40 dkg mąki
+- [ ] 25 dkg margaryny
+- [ ] 10 dkg cukru
+- [ ] 2 łyżki śmietany
+- [ ] 1 łyżeczka proszku do pieczenia
 
 ### Krem
-* [ ] 3 cytryny
-* [ ] 1 łyżka mąki ziemniaczanej
-* [ ] 10 dkg margaryny
-* [ ] 40 dkg cukru
-* [ ] 4 jaja
-* [ ] 3 białka
+- [ ] 3 cytryny
+- [ ] 1 łyżka mąki ziemniaczanej
+- [ ] 10 dkg margaryny
+- [ ] 40 dkg cukru
+- [ ] 4 jaja
+- [ ] 3 białka
 
 ## Przygotowanie
 

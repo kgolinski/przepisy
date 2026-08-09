@@ -1,20 +1,20 @@
 ## Składniki
 
-* [ ] 700g pomidorów daktylowych albo cherry
-* [ ] 300g pomidorów
-* [ ] 10g listków oregano
-* [ ] 20g liści bazyli
-* [ ] 6 ząbków czosnku
-* [ ] 1 czerwone chilli
-* [ ] 2 lyżki koncentratu pomidorowego
-* [ ] 1 łyżeczka dobrego cukru
-* [ ] 1 i ½ lyżeczki soli
-* [ ] pieprz
-* [ ] 150g masła
-* [ ] 250g makaronu fusilli
-* [ ] 400 ml wrzątku
-* [ ] 25g pietruszki
-* [ ] starty parmezan (opcjonalnie)
+- [ ] 700g pomidorów daktylowych albo cherry
+- [ ] 300g pomidorów
+- [ ] 10g listków oregano
+- [ ] 20g liści bazyli
+- [ ] 6 ząbków czosnku
+- [ ] 1 czerwone chilli
+- [ ] 2 lyżki koncentratu pomidorowego
+- [ ] 1 łyżeczka dobrego cukru
+- [ ] 1 i ½ lyżeczki soli
+- [ ] pieprz
+- [ ] 150g masła
+- [ ] 250g makaronu fusilli
+- [ ] 400 ml wrzątku
+- [ ] 25g pietruszki
+- [ ] starty parmezan (opcjonalnie)
 
 Nagrzać piekarnik do 220°C z termoobiegiem.
 

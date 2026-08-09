@@ -7,18 +7,18 @@ tags:
 ---
 ## Składniki
 
-* [ ] 750 g białego pieczywa
-* [ ] 400 g Emmentalera
-* [ ] 300 g Gruyere
-* [ ] 400 ml białego wina
-* [ ] 1 ząbek czosnku
-* [ ] 2 łyżki mąki ziemniaczanej
-* [ ] 1-2 łyżki śliwowicy
-* [ ] biały pieprz
-* [ ] gałka muszkatołowa
-* [ ] korniszony
-* [ ] marchewka, papryka pokrojone w kawałki
-* [ ] bagietka
+- [ ] 750 g białego pieczywa
+- [ ] 400 g Emmentalera
+- [ ] 300 g Gruyere
+- [ ] 400 ml białego wina
+- [ ] 1 ząbek czosnku
+- [ ] 2 łyżki mąki ziemniaczanej
+- [ ] 1-2 łyżki śliwowicy
+- [ ] biały pieprz
+- [ ] gałka muszkatołowa
+- [ ] korniszony
+- [ ] marchewka, papryka pokrojone w kawałki
+- [ ] bagietka
 
 ## Przygotowanie
 

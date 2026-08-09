@@ -1,15 +1,15 @@
 ## Składniki
 
-* [ ] 175g masła
-* [ ] 275g brązowego cukru
-* [ ] 1 jajko
-* [ ] 4 łyżki wody
-* [ ] 1 łyżeczka ektraktu z wanilii
-* [ ] 375g płatków owsianych
-* [ ] 140g mąki
-* [ ] 1 łyżeczka soli
-* [ ] ½ łyżeczki sody
-* [ ] rodzynki, orzechy, suszona żurawina
+- [ ] 175g masła
+- [ ] 275g brązowego cukru
+- [ ] 1 jajko
+- [ ] 4 łyżki wody
+- [ ] 1 łyżeczka ektraktu z wanilii
+- [ ] 375g płatków owsianych
+- [ ] 140g mąki
+- [ ] 1 łyżeczka soli
+- [ ] ½ łyżeczki sody
+- [ ] rodzynki, orzechy, suszona żurawina
 
 ## Przygotowanie
 

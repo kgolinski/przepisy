@@ -1,13 +1,13 @@
 ## Składniki
 
-* [ ] 50 g masła
-* [ ] 50 g mąki
-* [ ] 250 ml mleka
-* [ ] ½ łyżeczki soli
-* [ ] 100 g ostrego sera startego na tarce
-* [ ] 4 jajka, osobno białka i żółtka
-* [ ] ¼ łyżeczki gałki muszkatołowej
-* [ ] pieprz do smaku
+- [ ] 50 g masła
+- [ ] 50 g mąki
+- [ ] 250 ml mleka
+- [ ] ½ łyżeczki soli
+- [ ] 100 g ostrego sera startego na tarce
+- [ ] 4 jajka, osobno białka i żółtka
+- [ ] ¼ łyżeczki gałki muszkatołowej
+- [ ] pieprz do smaku
 
 Na patelni rozpuścić masło, dodać mąkę i mieszając cały czas trzepaczką, zrobić zasmażkę. Powoli wlewać mleko (cały czas mieszamy, żeby nie zrobiły się grudki).
 Zdejmujemy z ognia.

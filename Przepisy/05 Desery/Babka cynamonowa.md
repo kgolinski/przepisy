@@ -1,15 +1,15 @@
 ## Składniki
 
-* [ ] 250g masła lub margaryny
-* [ ] 200g cukru
-* [ ] 4 jajka
-* [ ] 1 cukier waniliowy
-* [ ] 4 krople aromatu cytrynowego
-* [ ] 4 łyżeczki cynamonu
-* [ ] 250g mąki
-* [ ] 3 łyżeczki proszku do pieczenia
-* [ ] 100g rodzynek
-* [ ] 100g orzechów włoskich
+- [ ] 250g masła lub margaryny
+- [ ] 200g cukru
+- [ ] 4 jajka
+- [ ] 1 cukier waniliowy
+- [ ] 4 krople aromatu cytrynowego
+- [ ] 4 łyżeczki cynamonu
+- [ ] 250g mąki
+- [ ] 3 łyżeczki proszku do pieczenia
+- [ ] 100g rodzynek
+- [ ] 100g orzechów włoskich
 
 ## Przygotowanie
 

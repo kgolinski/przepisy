@@ -1,8 +1,8 @@
 ## Składniki
 
-* [ ] świeże mleko niepasteryzowane
-* [ ] podpuszczka (najlepiej mikrobiologiczna)
-* [ ] sól, dużo soli
+- [ ] świeże mleko niepasteryzowane
+- [ ] podpuszczka (najlepiej mikrobiologiczna)
+- [ ] sól, dużo soli
 
 Mleko podgrzać do temperatury ok. 36°C. Dodać podpuszczkę (zgodnie z dawkowaniem na opakowaniu) oraz łyżeczkę soli na 10L mleka. Mieszać minutę, potem jeszcze minutę delikatniej po górnej warstwie mleka. Odczekać 30 minut.
 

@@ -1,7 +1,11 @@
 {
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "userIgnoreFilters": null,
+  "userIgnoreFilters": [
+    "Przepisy/index",
+    "Przepisy/assets/*",
+    "Przepisy/assets/"
+  ],
   "livePreview": false,
   "foldHeading": false,
   "foldIndent": false,

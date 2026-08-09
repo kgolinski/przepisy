@@ -1,18 +1,18 @@
 ## Ciasto
-* [ ] 500 g maki
-* [ ] 40 g drozdzy
-* [ ] 100 g masla
-* [ ] 250 ml mleka
-* [ ] szczypta soli
-* [ ] jajko
-* [ ] 2 lyzeczki cukru waniliowego
-* [ ] 120 g
+- [ ] 500 g maki
+- [ ] 40 g drozdzy
+- [ ] 100 g masla
+- [ ] 250 ml mleka
+- [ ] szczypta soli
+- [ ] jajko
+- [ ] 2 lyzeczki cukru waniliowego
+- [ ] 120 g
 
 ## Kruszonka
 
-* [ ] 50 g masła
-* [ ] 50 g cukru
-* [ ] 100 g maki
+- [ ] 50 g masła
+- [ ] 50 g cukru
+- [ ] 100 g maki
 
 
 Drozdze rozetrzeć z 1 lyżką cukru i wymieszać ze 100 ml ciepłego mleka. Przykryć ściereczką i odstawić do wyrośnięcią w dosyć sporym naczyniu. Maslo roztopic w reszcie mleka.

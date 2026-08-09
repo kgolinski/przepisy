@@ -1,6 +1,9 @@
 ---
-kuchnia: azjatycka
-tags: todo, ryż
+kuchnia:
+  - azjatycka
+tags:
+  - todo
+  - ryż
 ---
 > Idealne na śniadanie
 
