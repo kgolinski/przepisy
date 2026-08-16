@@ -4,7 +4,7 @@ tags:
 kuchnia:
   - japońska
   - azjatycka
-source: [Oliwio](https://oliwio.pl/blog/kurczak-w-sosie-teriyaki-szybki-przepis-na-orientalny-obiad)
+source: "[Oliwio](https://oliwio.pl/blog/kurczak-w-sosie-teriyaki-szybki-przepis-na-orientalny-obiad)"
 ---
 
 ## Składniki

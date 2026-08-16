@@ -2,6 +2,8 @@
   "hidden": true,
   "hiddenList": [
     "Przepisy/assets",
-    "Przepisy/index.md"
+    "Przepisy/index.md",
+    "node_modules",
+    "dist"
   ]
 }
