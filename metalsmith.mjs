@@ -73,7 +73,7 @@ const wikilinks = (files, metalsmith, done) => {
       wikilinks.forEach((wikilink) => {
         let title = wikilink.replace(/\[\[([^\]]+)\]\]/, "$1");
         let linked = keys.find((filepath) =>
-          files[filepath].path.includes(`${title}.md`)
+          filepath.includes(`${title}.md`)
         );
         if (linked) {
           let link = files[linked].permalink;
@@ -142,6 +142,7 @@ Metalsmith(__dirname)
   .use(callouts)
   .use(
     layouts({
+      transform: "handlebars",
       directory: ".",
       default: "layout.hbs",
       pattern: "**/*.html",
