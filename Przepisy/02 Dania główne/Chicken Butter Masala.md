@@ -30,6 +30,8 @@ kuchnia:
 - [ ] ½ lyzki cukru
 - [ ] świeża kolendra
 
+## Przygotowanie
+
 Zmiksuj składniki marynaty, wymieszaj z kurczakiem. Odstaw na pół godziny, następnie wstaw do bardzo gorącego piekarnika na 10 min.
 Ostudź. Pomidory zmiksuj, przetrzyj przez sitko. Rozgrzej maslo, podsmaz czosnek i imbir.
 Gdy zaczna pachnieć, dodaj garam masala, kozieradke i chilli. Smaż 5 minut, dodaj pomidory, wymieszaj z orzechami i dopraw cukrem.

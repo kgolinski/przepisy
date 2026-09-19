@@ -15,3 +15,15 @@ tags:
 
 ## Przygotowanie
 
+## Dodatki
+
+- furikake
+- kawior
+- jajko
+- boczniaki
+- olej sezamowy
+- sos sojowy
+- sezam
+- grillowana papryka
+- dymka
+- kimchi
